@@ -1,0 +1,1057 @@
+,DivisionNm,BallotPosition,PartyAb,PartyNm,Elected,HistoricElected,PreferenceCount,PreferencePercent
+0,Bean,1,AUP,Australian Progressives,N,N,2722.0,2.93
+1,Bean,2,IND,Independent,N,N,7683.0,8.27
+2,Bean,3,GAP,The Great Australian Party,N,N,929.0,1.0
+3,Bean,4,LDP,Liberal Democrats,N,N,2540.0,2.73
+4,Bean,5,UAPP,United Australia Party,N,N,2227.0,2.4
+5,Bean,6,LP,Liberal,N,N,29223.0,31.44
+6,Bean,7,ALP,Australian Labor Party,Y,N,35447.0,38.14
+7,Bean,8,GRN,The Greens,N,N,12168.0,13.09
+8,Canberra,1,IND,Independent,N,N,4062.0,4.7
+9,Canberra,2,ALP,Australian Labor Party,Y,N,34989.0,40.5
+10,Canberra,3,GRN,The Greens,N,N,20144.0,23.31
+11,Canberra,4,LP,Liberal,N,N,24063.0,27.85
+12,Canberra,5,AUP,Australian Progressives,N,N,1784.0,2.06
+13,Canberra,6,UAPP,United Australia Party,N,N,1361.0,1.58
+14,Fenner,1,UAPP,United Australia Party,N,N,3529.0,4.07
+15,Fenner,2,AUP,Australian Progressives,N,N,1723.0,1.99
+16,Fenner,3,GRN,The Greens,N,N,12492.0,14.42
+17,Fenner,4,ALP,Australian Labor Party,Y,Y,38864.0,44.86
+18,Fenner,5,LP,Liberal,N,N,30025.0,34.66
+19,Banks,1,LP,Liberal,Y,Y,46709.0,50.92
+20,Banks,2,GRN,The Greens,N,N,5339.0,5.82
+21,Banks,3,ALP,Labor,N,N,33341.0,36.35
+22,Banks,4,UAPP,United Australia Party,N,N,2029.0,2.21
+23,Banks,5,AJP,Animal Justice Party,N,N,1688.0,1.84
+24,Banks,6,CDP,Christian Democratic Party (Fred Nile Group),N,N,2624.0,2.86
+25,Barton,1,ALP,Labor,Y,Y,44227.0,49.19
+26,Barton,2,LP,Liberal,N,N,30109.0,33.49
+27,Barton,3,UAPP,United Australia Party,N,N,2057.0,2.29
+28,Barton,4,CDP,Christian Democratic Party (Fred Nile Group),N,N,2103.0,2.34
+29,Barton,5,GRN,The Greens,N,N,8123.0,9.03
+30,Barton,6,ON,Pauline Hanson's One Nation,N,N,3288.0,3.66
+31,Bennelong,1,ALP,Labor,N,N,32769.0,34.03
+32,Bennelong,2,UAPP,United Australia Party,N,N,1890.0,1.96
+33,Bennelong,3,LP,Liberal,Y,Y,48942.0,50.82
+34,Bennelong,4,GRN,The Greens,N,N,9116.0,9.47
+35,Bennelong,5,CDP,Christian Democratic Party (Fred Nile Group),N,N,3588.0,3.73
+36,Berowra,1,GRN,The Greens,N,N,11157.0,11.88
+37,Berowra,2,LP,Liberal,Y,Y,53741.0,57.2
+38,Berowra,3,UAPP,United Australia Party,N,N,1576.0,1.68
+39,Berowra,4,FUT,Science Party,N,N,1465.0,1.56
+40,Berowra,5,CDP,Christian Democratic Party (Fred Nile Group),N,N,2163.0,2.3
+41,Berowra,6,IND,Independent,N,N,495.0,0.53
+42,Berowra,7,IND,Independent,N,N,2104.0,2.24
+43,Berowra,8,ALP,Labor,N,N,19821.0,21.1
+44,Berowra,9,SPP,Sustainable Australia,N,N,1425.0,1.52
+45,Blaxland,1,CDP,Christian Democratic Party (Fred Nile Group),N,N,4173.0,5.16
+46,Blaxland,2,LP,Liberal,N,N,23289.0,28.82
+47,Blaxland,3,ALP,Labor,Y,Y,46689.0,57.78
+48,Blaxland,4,UAPP,United Australia Party,N,N,2328.0,2.88
+49,Blaxland,5,GRN,The Greens,N,N,4329.0,5.36
+50,Bradfield,1,GRN,The Greens,N,N,13177.0,13.71
+51,Bradfield,2,LP,Liberal,Y,Y,58007.0,60.33
+52,Bradfield,3,UAPP,United Australia Party,N,N,1772.0,1.84
+53,Bradfield,4,SPP,Sustainable Australia,N,N,2826.0,2.94
+54,Bradfield,5,ALP,Labor,N,N,20361.0,21.18
+55,Calare,1,ASP,"Shooters, Fishers and Farmers",N,N,18129.0,17.38
+56,Calare,2,CDP,Christian Democratic Party (Fred Nile Group),N,N,1992.0,1.91
+57,Calare,3,ALP,Labor,N,N,23074.0,22.13
+58,Calare,4,UAPP,United Australia Party,N,N,3371.0,3.23
+59,Calare,5,NP,The Nationals,Y,Y,46632.0,44.71
+60,Calare,6,LDP,Liberal Democrats,N,N,4775.0,4.58
+61,Calare,7,GRN,The Greens,N,N,6315.0,6.06
+62,Chifley,1,CDP,Christian Democratic Party (Fred Nile Group),N,N,5859.0,6.44
+63,Chifley,2,IND,Independent,N,N,1581.0,1.74
+64,Chifley,3,UAPP,United Australia Party,N,N,4133.0,4.54
+65,Chifley,4,GRN,The Greens,N,N,4604.0,5.06
+66,Chifley,5,LP,Liberal,N,N,25411.0,27.92
+67,Chifley,6,ALP,Labor,Y,Y,49418.0,54.3
+68,Cook,1,LP,Liberal,Y,Y,59895.0,63.7
+69,Cook,2,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,551.0,0.59
+70,Cook,3,ALP,Labor,N,N,21718.0,23.1
+71,Cook,4,ON,Pauline Hanson's One Nation,N,N,3277.0,3.49
+72,Cook,5,GRN,The Greens,N,N,6406.0,6.81
+73,Cook,6,CDP,Christian Democratic Party (Fred Nile Group),N,N,1041.0,1.11
+74,Cook,7,UAPP,United Australia Party,N,N,1135.0,1.21
+75,Cowper,1,CDP,Christian Democratic Party (Fred Nile Group),N,N,2383.0,2.26
+76,Cowper,2,NP,The Nationals,Y,N,49668.0,47.07
+77,Cowper,3,UAPP,United Australia Party,N,N,3188.0,3.02
+78,Cowper,4,ALP,Labor,N,N,14551.0,13.79
+79,Cowper,5,IND,Independent,N,N,25847.0,24.49
+80,Cowper,6,GRN,The Greens,N,N,6264.0,5.94
+81,Cowper,7,AJP,Animal Justice Party,N,N,2176.0,2.06
+82,Cowper,8,IND,Independent,N,N,1451.0,1.37
+83,Cunningham,1,LP,Liberal,N,N,31177.0,30.97
+84,Cunningham,2,GRN,The Greens,N,N,15196.0,15.09
+85,Cunningham,3,ALP,Labor,Y,Y,46923.0,46.61
+86,Cunningham,4,NCP,Non-Custodial Parents Party (Equal Parenting),N,N,1213.0,1.2
+87,Cunningham,5,SPP,Sustainable Australia,N,N,2340.0,2.32
+88,Cunningham,6,UAPP,United Australia Party,N,N,3828.0,3.8
+89,Dobell,1,UAPP,United Australia Party,N,N,5411.0,5.33
+90,Dobell,2,CDP,Christian Democratic Party (Fred Nile Group),N,N,1868.0,1.84
+91,Dobell,3,LP,Liberal,N,N,41326.0,40.73
+92,Dobell,4,GRN,The Greens,N,N,7579.0,7.47
+93,Dobell,5,ALP,Labor,Y,Y,42093.0,41.49
+94,Dobell,6,IND,Independent,N,N,3176.0,3.13
+95,Eden-Monaro,1,ALP,Labor,Y,Y,38878.0,39.17
+96,Eden-Monaro,2,LP,Liberal,N,N,36732.0,37.01
+97,Eden-Monaro,3,GRN,The Greens,N,N,8715.0,8.78
+98,Eden-Monaro,4,IND,Independent,N,N,2247.0,2.26
+99,Eden-Monaro,5,NP,The Nationals,N,N,6899.0,6.95
+100,Eden-Monaro,6,CDP,Christian Democratic Party (Fred Nile Group),N,N,1157.0,1.17
+101,Eden-Monaro,7,UAPP,United Australia Party,N,N,2748.0,2.77
+102,Eden-Monaro,8,IND,Independent,N,N,1883.0,1.9
+103,Farrer,1,LP,Liberal,Y,Y,49316.0,50.71
+104,Farrer,2,SPP,Sustainable Australia,N,N,1429.0,1.47
+105,Farrer,3,ALP,Labor,N,N,14236.0,14.64
+106,Farrer,4,IND,Independent,N,N,19926.0,20.49
+107,Farrer,5,CDP,Christian Democratic Party (Fred Nile Group),N,N,1327.0,1.36
+108,Farrer,6,LDP,Liberal Democrats,N,N,1084.0,1.11
+109,Farrer,7,IND,Independent,N,N,1255.0,1.29
+110,Farrer,8,UAPP,United Australia Party,N,N,4147.0,4.26
+111,Farrer,9,GRN,The Greens,N,N,4529.0,4.66
+112,Fowler,1,CDP,Christian Democratic Party (Fred Nile Group),N,N,4643.0,5.55
+113,Fowler,2,ALP,Labor,Y,Y,45627.0,54.54
+114,Fowler,3,UAPP,United Australia Party,N,N,3624.0,4.33
+115,Fowler,4,GRN,The Greens,N,N,4633.0,5.54
+116,Fowler,5,LP,Liberal,N,N,25137.0,30.05
+117,Gilmore,1,GRN,The Greens,N,N,10740.0,9.97
+118,Gilmore,2,IND,Independent,N,N,7585.0,7.04
+119,Gilmore,3,UAPP,United Australia Party,N,N,3638.0,3.38
+120,Gilmore,4,ALP,Labor,Y,N,38972.0,36.19
+121,Gilmore,5,CDP,Christian Democratic Party (Fred Nile Group),N,N,1853.0,1.72
+122,Gilmore,6,NP,The Nationals,N,N,13462.0,12.5
+123,Gilmore,7,LP,Liberal,N,N,31427.0,29.19
+124,Grayndler,1,FUT,Science Party,N,N,2613.0,2.73
+125,Grayndler,2,LP,Liberal,N,N,20846.0,21.76
+126,Grayndler,3,UAPP,United Australia Party,N,N,1155.0,1.21
+127,Grayndler,4,GRN,The Greens,N,N,21607.0,22.55
+128,Grayndler,5,ALP,Labor,Y,Y,48728.0,50.86
+129,Grayndler,6,CDP,Christian Democratic Party (Fred Nile Group),N,N,865.0,0.9
+130,Greenway,1,ABFA,Australian Better Families,N,N,2072.0,2.17
+131,Greenway,2,GRN,The Greens,N,N,5256.0,5.5
+132,Greenway,3,LP,Liberal,N,N,38759.0,40.58
+133,Greenway,4,ALP,Labor,Y,Y,43901.0,45.97
+134,Greenway,5,UAPP,United Australia Party,N,N,2853.0,2.99
+135,Greenway,6,CDP,Christian Democratic Party (Fred Nile Group),N,N,2666.0,2.79
+136,Hughes,1,LP,Liberal,Y,Y,50763.0,53.16
+137,Hughes,2,GRN,The Greens,N,N,6631.0,6.94
+138,Hughes,3,AJP,Animal Justice Party,N,N,2439.0,2.55
+139,Hughes,4,UAPP,United Australia Party,N,N,2366.0,2.48
+140,Hughes,5,ALP,Labor,N,N,29088.0,30.46
+141,Hughes,6,IND,Independent,N,N,1988.0,2.08
+142,Hughes,7,CDP,Christian Democratic Party (Fred Nile Group),N,N,2216.0,2.32
+143,Hume,1,ALP,Labor,N,N,27223.0,26.57
+144,Hume,2,UAPP,United Australia Party,N,N,4939.0,4.82
+145,Hume,3,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2493.0,2.43
+146,Hume,4,LP,Liberal,Y,Y,54589.0,53.29
+147,Hume,5,GRN,The Greens,N,N,5224.0,5.1
+148,Hume,6,IND,Independent,N,N,6068.0,5.92
+149,Hume,7,CDP,Christian Democratic Party (Fred Nile Group),N,N,1906.0,1.86
+150,Hunter,1,ON,Pauline Hanson's One Nation,N,N,22029.0,21.59
+151,Hunter,2,NP,The Nationals,N,N,23942.0,23.47
+152,Hunter,3,AJP,Animal Justice Party,N,N,3267.0,3.2
+153,Hunter,4,UAPP,United Australia Party,N,N,4407.0,4.32
+154,Hunter,5,GRN,The Greens,N,N,7007.0,6.87
+155,Hunter,6,CDP,Christian Democratic Party (Fred Nile Group),N,N,2356.0,2.31
+156,Hunter,7,ALP,Labor,Y,Y,38331.0,37.57
+157,Hunter,8,SEP,Socialist Equality Party,N,N,687.0,0.67
+158,Kingsford Smith,1,GRN,The Greens,N,N,11418.0,12.1
+159,Kingsford Smith,2,CDP,Christian Democratic Party (Fred Nile Group),N,N,1359.0,1.44
+160,Kingsford Smith,3,ALP,Labor,Y,Y,42629.0,45.17
+161,Kingsford Smith,4,SPP,Sustainable Australia,N,N,1346.0,1.43
+162,Kingsford Smith,5,FUT,Science Party,N,N,1595.0,1.69
+163,Kingsford Smith,6,UAPP,United Australia Party,N,N,1649.0,1.75
+164,Kingsford Smith,7,LP,Liberal,N,N,34380.0,36.43
+165,Lindsay,1,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2374.0,2.44
+166,Lindsay,2,ALP,Labor,N,N,34690.0,35.61
+167,Lindsay,3,LP,Liberal,Y,N,45247.0,46.45
+168,Lindsay,4,GRN,The Greens,N,N,4781.0,4.91
+169,Lindsay,5,UAPP,United Australia Party,N,N,2831.0,2.91
+170,Lindsay,6,IND,Independent,N,N,2785.0,2.86
+171,Lindsay,7,SPP,Sustainable Australia,N,N,1326.0,1.36
+172,Lindsay,8,CDP,Christian Democratic Party (Fred Nile Group),N,N,1997.0,2.05
+173,Lindsay,9,AFN,Australia First Party,N,N,1372.0,1.41
+174,Lyne,1,ALP,Labor,N,N,24371.0,24.09
+175,Lyne,2,NP,The Nationals,Y,Y,49934.0,49.35
+176,Lyne,3,UAPP,United Australia Party,N,N,4098.0,4.05
+177,Lyne,4,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1986.0,1.96
+178,Lyne,5,LDP,Liberal Democrats,N,N,5864.0,5.8
+179,Lyne,6,AWP,Australian Workers Party,N,N,1676.0,1.66
+180,Lyne,7,IND,Independent,N,N,5169.0,5.11
+181,Lyne,8,CDP,Christian Democratic Party (Fred Nile Group),N,N,1493.0,1.48
+182,Lyne,9,GRN,The Greens,N,N,6589.0,6.51
+183,Macarthur,1,CDP,Christian Democratic Party (Fred Nile Group),N,N,3705.0,3.72
+184,Macarthur,2,ALP,Labor,Y,Y,47539.0,47.78
+185,Macarthur,3,AJP,Animal Justice Party,N,N,2106.0,2.12
+186,Macarthur,4,ON,Pauline Hanson's One Nation,N,N,8555.0,8.6
+187,Macarthur,5,LP,Liberal,N,N,30696.0,30.85
+188,Macarthur,6,UAPP,United Australia Party,N,N,2506.0,2.52
+189,Macarthur,7,GRN,The Greens,N,N,4397.0,4.42
+190,Mackellar,1,UAPP,United Australia Party,N,N,2317.0,2.36
+191,Mackellar,2,SPP,Sustainable Australia,N,N,2550.0,2.6
+192,Mackellar,3,IND,Independent,N,N,11975.0,12.19
+193,Mackellar,4,GRN,The Greens,N,N,11283.0,11.48
+194,Mackellar,5,ALP,Labor,N,N,16648.0,16.94
+195,Mackellar,6,LP,Liberal,Y,Y,52088.0,53.01
+196,Mackellar,7,CDP,Christian Democratic Party (Fred Nile Group),N,N,1401.0,1.43
+197,Macquarie,1,LP,Liberal,N,N,43487.0,44.85
+198,Macquarie,2,GRN,The Greens,N,N,8870.0,9.15
+199,Macquarie,3,ALP,Labor,Y,Y,37106.0,38.27
+200,Macquarie,4,AJP,Animal Justice Party,N,N,3611.0,3.72
+201,Macquarie,5,UAPP,United Australia Party,N,N,3877.0,4.0
+202,McMahon,1,UAPP,United Australia Party,N,N,3329.0,3.9
+203,McMahon,2,ON,Pauline Hanson's One Nation,N,N,7046.0,8.25
+204,McMahon,3,CDP,Christian Democratic Party (Fred Nile Group),N,N,3008.0,3.52
+205,McMahon,4,ALP,Labor,Y,Y,39351.0,46.08
+206,McMahon,5,GRN,The Greens,N,N,4218.0,4.94
+207,McMahon,6,LP,Liberal,N,N,28441.0,33.31
+208,Mitchell,1,ALP,Labor,N,N,23618.0,23.94
+209,Mitchell,2,LP,Liberal,Y,Y,61202.0,62.05
+210,Mitchell,3,UAPP,United Australia Party,N,N,2705.0,2.74
+211,Mitchell,4,CDP,Christian Democratic Party (Fred Nile Group),N,N,3156.0,3.2
+212,Mitchell,5,GRN,The Greens,N,N,7955.0,8.07
+213,New England,1,IND,Independent,N,N,3071.0,3.16
+214,New England,2,CDP,Christian Democratic Party (Fred Nile Group),N,N,2215.0,2.28
+215,New England,3,ALP,Labor,N,N,12410.0,12.75
+216,New England,4,NP,The Nationals,Y,Y,53348.0,54.82
+217,New England,5,GRN,The Greens,N,N,4311.0,4.43
+218,New England,6,IND,Independent,N,N,13804.0,14.18
+219,New England,7,IND,Independent,N,N,3702.0,3.8
+220,New England,8,UAPP,United Australia Party,N,N,4459.0,4.58
+221,Newcastle,1,ALP,Labor,Y,Y,47137.0,45.73
+222,Newcastle,2,GRN,The Greens,N,N,16038.0,15.56
+223,Newcastle,3,CDP,Christian Democratic Party (Fred Nile Group),N,N,1928.0,1.87
+224,Newcastle,4,UAPP,United Australia Party,N,N,3471.0,3.37
+225,Newcastle,5,GAP,The Great Australian Party,N,N,1086.0,1.05
+226,Newcastle,6,AJP,Animal Justice Party,N,N,3300.0,3.2
+227,Newcastle,7,LP,Liberal,N,N,30107.0,29.21
+228,North Sydney,1,CDP,Christian Democratic Party (Fred Nile Group),N,N,1660.0,1.71
+229,North Sydney,2,ALP,Labor,N,N,24289.0,25.08
+230,North Sydney,3,UAPP,United Australia Party,N,N,1249.0,1.29
+231,North Sydney,4,GRN,The Greens,N,N,13193.0,13.62
+232,North Sydney,5,IND,Independent,N,N,4295.0,4.44
+233,North Sydney,6,SPP,Sustainable Australia,N,N,1831.0,1.89
+234,North Sydney,7,LP,Liberal,Y,Y,50319.0,51.96
+235,Page,1,IND,Independent,N,N,5240.0,4.85
+236,Page,2,AJP,Animal Justice Party,N,N,2646.0,2.45
+237,Page,3,CDP,Christian Democratic Party (Fred Nile Group),N,N,1992.0,1.84
+238,Page,4,UAPP,United Australia Party,N,N,3460.0,3.2
+239,Page,5,GRN,The Greens,N,N,12634.0,11.68
+240,Page,6,NP,The Nationals,Y,Y,53672.0,49.63
+241,Page,7,ALP,Labor,N,N,28507.0,26.36
+242,Parkes,1,LDP,Liberal Democrats,N,N,7568.0,8.06
+243,Parkes,2,NP,The Nationals,Y,Y,47692.0,50.76
+244,Parkes,3,GRN,The Greens,N,N,3921.0,4.17
+245,Parkes,4,ALP,Labor,N,N,22135.0,23.56
+246,Parkes,5,IND,Independent,N,N,6730.0,7.16
+247,Parkes,6,UAPP,United Australia Party,N,N,5906.0,6.29
+248,Parramatta,1,LP,Liberal,N,N,34954.0,41.28
+249,Parramatta,2,ALP,Labor,Y,Y,38171.0,45.08
+250,Parramatta,3,UAPP,United Australia Party,N,N,2186.0,2.58
+251,Parramatta,4,GRN,The Greens,N,N,6131.0,7.24
+252,Parramatta,5,CDP,Christian Democratic Party (Fred Nile Group),N,N,2526.0,2.98
+253,Parramatta,6,SEP,Socialist Equality Party,N,N,702.0,0.83
+254,Paterson,1,LP,Liberal,N,N,35059.0,32.52
+255,Paterson,2,ON,Pauline Hanson's One Nation,N,N,15269.0,14.16
+256,Paterson,3,ALP,Labor,Y,Y,44288.0,41.08
+257,Paterson,4,UAPP,United Australia Party,N,N,3888.0,3.61
+258,Paterson,5,GRN,The Greens,N,N,7439.0,6.9
+259,Paterson,6,CDP,Christian Democratic Party (Fred Nile Group),N,N,1876.0,1.74
+260,Reid,1,CDP,Christian Democratic Party (Fred Nile Group),N,N,2335.0,2.49
+261,Reid,2,GRN,The Greens,N,N,7575.0,8.08
+262,Reid,3,ALP,Labor,N,N,34872.0,37.21
+263,Reid,4,LP,Liberal,Y,N,45288.0,48.32
+264,Reid,5,UAPP,United Australia Party,N,N,1797.0,1.92
+265,Reid,6,AJP,Animal Justice Party,N,N,1861.0,1.99
+266,Richmond,1,SPP,Sustainable Australia,N,N,3154.0,3.14
+267,Richmond,2,UAPP,United Australia Party,N,N,3913.0,3.9
+268,Richmond,3,CDP,Christian Democratic Party (Fred Nile Group),N,N,1338.0,1.33
+269,Richmond,4,ALP,Labor,Y,Y,31807.0,31.71
+270,Richmond,5,IND,Independent,N,N,1566.0,1.56
+271,Richmond,6,IMO,Involuntary Medication Objectors (Vaccination/Fluoride) Party,N,N,1179.0,1.18
+272,Richmond,7,NP,The Nationals,N,N,36979.0,36.86
+273,Richmond,8,GRN,The Greens,N,N,20384.0,20.32
+274,Riverina,1,NP,The Nationals,Y,Y,60493.0,59.93
+275,Riverina,2,GRN,The Greens,N,N,6254.0,6.2
+276,Riverina,3,ALP,Labor,N,N,23380.0,23.16
+277,Riverina,4,UAPP,United Australia Party,N,N,10814.0,10.71
+278,Robertson,1,SPP,Sustainable Australia,N,N,1719.0,1.79
+279,Robertson,2,UAPP,United Australia Party,N,N,2702.0,2.81
+280,Robertson,3,CDP,Christian Democratic Party (Fred Nile Group),N,N,1352.0,1.41
+281,Robertson,4,IND,Independent,N,N,2915.0,3.03
+282,Robertson,5,LP,Liberal,Y,Y,45011.0,46.86
+283,Robertson,6,GRN,The Greens,N,N,7601.0,7.91
+284,Robertson,7,AJP,Animal Justice Party,N,N,2000.0,2.08
+285,Robertson,8,ALP,Labor,N,N,32761.0,34.1
+286,Shortland,1,SPP,Sustainable Australia,N,N,3097.0,3.1
+287,Shortland,2,CDP,Christian Democratic Party (Fred Nile Group),N,N,2010.0,2.01
+288,Shortland,3,ALP,Labor,Y,Y,41126.0,41.13
+289,Shortland,4,UAPP,United Australia Party,N,N,4532.0,4.53
+290,Shortland,5,GRN,The Greens,N,N,8256.0,8.26
+291,Shortland,6,AJP,Animal Justice Party,N,N,3596.0,3.6
+292,Shortland,7,LP,Liberal,N,N,37363.0,37.37
+293,Sydney,1,LP,Liberal,N,N,25230.0,26.61
+294,Sydney,2,FUT,Science Party,N,N,3240.0,3.42
+295,Sydney,3,ALP,Labor,Y,Y,46850.0,49.41
+296,Sydney,4,UAPP,United Australia Party,N,N,1366.0,1.44
+297,Sydney,5,GRN,The Greens,N,N,17134.0,18.07
+298,Sydney,6,CDP,Christian Democratic Party (Fred Nile Group),N,N,995.0,1.05
+299,Warringah,1,AJP,Animal Justice Party,N,N,1291.0,1.4
+300,Warringah,2,IND,Independent,N,N,1111.0,1.21
+301,Warringah,3,ALP,Labor,N,N,6091.0,6.61
+302,Warringah,4,SPP,Sustainable Australia,N,N,678.0,0.74
+303,Warringah,5,UAPP,United Australia Party,N,N,625.0,0.68
+304,Warringah,6,LP,Liberal,N,Y,35935.0,39.01
+305,Warringah,7,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,250.0,0.27
+306,Warringah,8,IND,Independent,Y,N,40034.0,43.46
+307,Warringah,9,CDP,Christian Democratic Party (Fred Nile Group),N,N,461.0,0.5
+308,Warringah,10,GRN,The Greens,N,N,5647.0,6.13
+309,Watson,1,UAPP,United Australia Party,N,N,3549.0,4.21
+310,Watson,2,CDP,Christian Democratic Party (Fred Nile Group),N,N,4522.0,5.37
+311,Watson,3,FUT,Science Party,N,N,1878.0,2.23
+312,Watson,4,GRN,The Greens,N,N,5982.0,7.1
+313,Watson,5,ALP,Labor,Y,Y,43550.0,51.69
+314,Watson,6,LP,Liberal,N,N,24769.0,29.4
+315,Wentworth,1,IND,Independent,N,N,516.0,0.57
+316,Wentworth,2,ALP,Labor,N,N,9824.0,10.95
+317,Wentworth,3,UAPP,United Australia Party,N,N,625.0,0.7
+318,Wentworth,4,CDP,Christian Democratic Party (Fred Nile Group),N,N,346.0,0.39
+319,Wentworth,5,LP,Liberal,Y,N,42575.0,47.44
+320,Wentworth,6,GRN,The Greens,N,N,6759.0,7.53
+321,Wentworth,7,IND,Independent,N,Y,29109.0,32.43
+322,Werriwa,1,CDP,Christian Democratic Party (Fred Nile Group),N,N,4841.0,5.14
+323,Werriwa,2,LP,Liberal,N,N,33234.0,35.27
+324,Werriwa,3,GRN,The Greens,N,N,5060.0,5.37
+325,Werriwa,4,IND,Independent,N,N,2135.0,2.27
+326,Werriwa,5,UAPP,United Australia Party,N,N,3957.0,4.2
+327,Werriwa,6,ALP,Labor,Y,Y,45002.0,47.76
+328,Whitlam,1,UAPP,United Australia Party,N,N,9071.0,8.84
+329,Whitlam,2,CDP,Christian Democratic Party (Fred Nile Group),N,N,4214.0,4.1
+330,Whitlam,3,NP,The Nationals,N,N,26145.0,25.46
+331,Whitlam,4,ALP,Labor,Y,Y,50102.0,48.8
+332,Whitlam,5,GRN,The Greens,N,N,9461.0,9.21
+333,Whitlam,6,SPP,Sustainable Australia,N,N,3678.0,3.58
+334,Lingiari,1,ALP,Australian Labor Party (Northern Territory) Branch,Y,Y,21698.0,44.8
+335,Lingiari,2,GRN,The Greens,N,N,3991.0,8.24
+336,Lingiari,3,UAPP,United Australia Party,N,N,1367.0,2.82
+337,Lingiari,4,RUA,Rise Up Australia Party,N,N,1380.0,2.85
+338,Lingiari,5,IND,Independent,N,N,2123.0,4.38
+339,Lingiari,6,CLP,Country Liberals (NT),N,N,17875.0,36.91
+340,Solomon,1,ALP,Australian Labor Party (Northern Territory) Branch,Y,Y,22057.0,40.04
+341,Solomon,2,RUA,Rise Up Australia Party,N,N,1277.0,2.32
+342,Solomon,3,CLP,Country Liberals (NT),N,N,20962.0,38.05
+343,Solomon,4,GRN,The Greens,N,N,6521.0,11.84
+344,Solomon,5,UAPP,United Australia Party,N,N,1583.0,2.87
+345,Solomon,6,IND,Independent,N,N,2684.0,4.87
+346,Blair,1,IND,Independent,N,N,3849.0,4.01
+347,Blair,2,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2009.0,2.09
+348,Blair,3,ALP,Australian Labor Party,Y,Y,29987.0,31.26
+349,Blair,4,ON,Pauline Hanson's One Nation,N,N,16114.0,16.8
+350,Blair,5,LNP,Liberal National Party of Queensland,N,N,27844.0,29.03
+351,Blair,6,UAPP,United Australia Party,N,N,3261.0,3.4
+352,Blair,7,DLP,Labour DLP,N,N,2418.0,2.52
+353,Blair,8,GRN,The Greens,N,N,8325.0,8.68
+354,Blair,9,IND,Independent,N,N,2118.0,2.21
+355,Bonner,1,UAPP,United Australia Party,N,N,2394.0,2.54
+356,Bonner,2,GRN,The Greens,N,N,11010.0,11.69
+357,Bonner,3,ON,Pauline Hanson's One Nation,N,N,3771.0,4.0
+358,Bonner,4,LNP,Liberal National Party of Queensland,Y,Y,46616.0,49.49
+359,Bonner,5,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1105.0,1.17
+360,Bonner,6,ALP,Australian Labor Party,N,N,29291.0,31.1
+361,Bowman,1,GRN,The Greens,N,N,11795.0,11.99
+362,Bowman,2,LNP,Liberal National Party of Queensland,Y,Y,47866.0,48.67
+363,Bowman,3,UAPP,United Australia Party,N,N,3540.0,3.6
+364,Bowman,4,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1816.0,1.85
+365,Bowman,5,ON,Pauline Hanson's One Nation,N,N,7175.0,7.3
+366,Bowman,6,ALP,Australian Labor Party,N,N,26147.0,26.59
+367,Brisbane,1,ON,Pauline Hanson's One Nation,N,N,2537.0,2.49
+368,Brisbane,2,LNP,Liberal National Party of Queensland,Y,Y,48777.0,47.84
+369,Brisbane,3,UAPP,United Australia Party,N,N,1420.0,1.39
+370,Brisbane,4,GRN,The Greens,N,N,22807.0,22.37
+371,Brisbane,5,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,732.0,0.72
+372,Brisbane,6,ALP,Australian Labor Party,N,N,24970.0,24.49
+373,Brisbane,7,SAL,Socialist Alliance,N,N,714.0,0.7
+374,Capricornia,1,GRN,The Greens,N,N,4307.0,4.84
+375,Capricornia,2,KAP,Katter's Australian Party (KAP),N,N,3269.0,3.67
+376,Capricornia,3,DLP,Labour DLP,N,N,1637.0,1.84
+377,Capricornia,4,IND,Independent,N,N,2211.0,2.49
+378,Capricornia,5,LNP,Liberal National Party of Queensland,Y,Y,36163.0,40.65
+379,Capricornia,6,ALP,Australian Labor Party,N,N,21120.0,23.74
+380,Capricornia,7,ON,Pauline Hanson's One Nation,N,N,15105.0,16.98
+381,Capricornia,8,UAPP,United Australia Party,N,N,3250.0,3.65
+382,Capricornia,9,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1905.0,2.14
+383,Dawson,1,DLP,Labour DLP,N,N,2835.0,3.19
+384,Dawson,2,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1741.0,1.96
+385,Dawson,3,ON,Pauline Hanson's One Nation,N,N,11628.0,13.09
+386,Dawson,4,LNP,Liberal National Party of Queensland,Y,Y,38164.0,42.95
+387,Dawson,5,ALP,Australian Labor Party,N,N,18022.0,20.28
+388,Dawson,6,KAP,Katter's Australian Party (KAP),N,N,5619.0,6.32
+389,Dawson,7,GRN,The Greens,N,N,4009.0,4.51
+390,Dawson,8,IND,Independent,N,N,2478.0,2.79
+391,Dawson,9,UAPP,United Australia Party,N,N,4355.0,4.9
+392,Dickson,1,GRN,The Greens,N,N,9675.0,9.98
+393,Dickson,2,LNP,Liberal National Party of Queensland,Y,Y,44528.0,45.93
+394,Dickson,3,ALP,Australian Labor Party,N,N,30370.0,31.33
+395,Dickson,4,IND,Independent,N,N,2302.0,2.37
+396,Dickson,5,UAPP,United Australia Party,N,N,2176.0,2.24
+397,Dickson,6,ON,Pauline Hanson's One Nation,N,N,5022.0,5.18
+398,Dickson,7,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1044.0,1.08
+399,Dickson,8,AJP,Animal Justice Party,N,N,1831.0,1.89
+400,Fadden,1,LDP,Liberal Democrats,N,N,4391.0,4.52
+401,Fadden,2,ALP,Australian Labor Party,N,N,21882.0,22.51
+402,Fadden,3,ON,Pauline Hanson's One Nation,N,N,8334.0,8.57
+403,Fadden,4,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1531.0,1.57
+404,Fadden,5,GRN,The Greens,N,N,8747.0,9.0
+405,Fadden,6,LNP,Liberal National Party of Queensland,Y,Y,47359.0,48.72
+406,Fadden,7,UAPP,United Australia Party,N,N,4968.0,5.11
+407,Fairfax,1,UAPP,United Australia Party,N,N,2987.0,3.06
+408,Fairfax,2,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1502.0,1.54
+409,Fairfax,3,GRN,The Greens,N,N,12291.0,12.59
+410,Fairfax,4,LNP,Liberal National Party of Queensland,Y,Y,48451.0,49.62
+411,Fairfax,5,SPP,Sustainable Australia,N,N,1410.0,1.44
+412,Fairfax,6,ON,Pauline Hanson's One Nation,N,N,7661.0,7.85
+413,Fairfax,7,IND,Independent,N,N,1318.0,1.35
+414,Fairfax,8,LDP,Liberal Democrats,N,N,1044.0,1.07
+415,Fairfax,9,ALP,Australian Labor Party,N,N,20976.0,21.48
+416,Fisher,1,UAPP,United Australia Party,N,N,3429.0,3.46
+417,Fisher,2,ALP,Australian Labor Party,N,N,22011.0,22.22
+418,Fisher,3,GRN,The Greens,N,N,12289.0,12.41
+419,Fisher,4,ON,Pauline Hanson's One Nation,N,N,8596.0,8.68
+420,Fisher,5,LNP,Liberal National Party of Queensland,Y,Y,49567.0,50.04
+421,Fisher,6,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1592.0,1.61
+422,Fisher,7,LAOL,Love Australia or Leave,N,N,1564.0,1.58
+423,Flynn,1,ALP,Australian Labor Party,N,N,25628.0,28.65
+424,Flynn,2,UAPP,United Australia Party,N,N,3798.0,4.25
+425,Flynn,3,GRN,The Greens,N,N,2744.0,3.07
+426,Flynn,4,IND,Independent,N,N,1994.0,2.23
+427,Flynn,5,ON,Pauline Hanson's One Nation,N,N,17531.0,19.6
+428,Flynn,6,IND,Independent,N,N,1384.0,1.55
+429,Flynn,7,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2484.0,2.78
+430,Flynn,8,LNP,Liberal National Party of Queensland,Y,Y,33894.0,37.89
+431,Forde,1,ON,Pauline Hanson's One Nation,N,N,10807.0,11.81
+432,Forde,2,GRN,The Greens,N,N,7987.0,8.73
+433,Forde,3,UAPP,United Australia Party,N,N,3696.0,4.04
+434,Forde,4,LNP,Liberal National Party of Queensland,Y,Y,39819.0,43.5
+435,Forde,5,ALP,Australian Labor Party,N,N,27008.0,29.51
+436,Forde,6,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2217.0,2.42
+437,Griffith,1,LNP,Liberal National Party of Queensland,N,N,40816.0,40.97
+438,Griffith,2,ALP,Australian Labor Party,Y,Y,30836.0,30.95
+439,Griffith,3,GRN,The Greens,N,N,23562.0,23.65
+440,Griffith,4,UAPP,United Australia Party,N,N,1444.0,1.45
+441,Griffith,5,ON,Pauline Hanson's One Nation,N,N,2109.0,2.12
+442,Griffith,6,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,850.0,0.85
+443,Groom,1,GRN,The Greens,N,N,7598.0,7.96
+444,Groom,2,ON,Pauline Hanson's One Nation,N,N,12493.0,13.09
+445,Groom,3,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2854.0,2.99
+446,Groom,4,LNP,Liberal National Party of Queensland,Y,Y,50908.0,53.34
+447,Groom,5,UAPP,United Australia Party,N,N,3784.0,3.96
+448,Groom,6,ALP,Australian Labor Party,N,N,17811.0,18.66
+449,Herbert,1,ON,Pauline Hanson's One Nation,N,N,10189.0,11.09
+450,Herbert,2,UAPP,United Australia Party,N,N,5239.0,5.7
+451,Herbert,3,KAP,Katter's Australian Party (KAP),N,N,9007.0,9.8
+452,Herbert,4,GRN,The Greens,N,N,6721.0,7.31
+453,Herbert,5,LNP,Liberal National Party of Queensland,Y,N,34112.0,37.11
+454,Herbert,6,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1671.0,1.82
+455,Herbert,7,AJP,Animal Justice Party,N,N,1585.0,1.72
+456,Herbert,8,ALP,Australian Labor Party,N,Y,23393.0,25.45
+457,Hinkler,1,ON,Pauline Hanson's One Nation,N,N,13625.0,14.8
+458,Hinkler,2,LNP,Liberal National Party of Queensland,Y,Y,42374.0,46.03
+459,Hinkler,3,GRN,The Greens,N,N,3422.0,3.72
+460,Hinkler,4,IND,Independent,N,N,1327.0,1.44
+461,Hinkler,5,IND,Independent,N,N,2583.0,2.81
+462,Hinkler,6,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1471.0,1.6
+463,Hinkler,7,UAPP,United Australia Party,N,N,4029.0,4.38
+464,Hinkler,8,AJP,Animal Justice Party,N,N,1391.0,1.51
+465,Hinkler,9,ALP,Australian Labor Party,N,N,21110.0,22.93
+466,Hinkler,10,IND,Independent,N,N,735.0,0.8
+467,Kennedy,1,UAPP,United Australia Party,N,N,6124.0,6.66
+468,Kennedy,2,KAP,Katter's Australian Party (KAP),Y,Y,37665.0,40.96
+469,Kennedy,3,GRN,The Greens,N,N,4751.0,5.17
+470,Kennedy,4,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2532.0,2.75
+471,Kennedy,5,LNP,Liberal National Party of Queensland,N,N,25264.0,27.48
+472,Kennedy,6,ALP,Australian Labor Party,N,N,15612.0,16.98
+473,Leichhardt,1,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1976.0,2.2
+474,Leichhardt,2,IND,Independent,N,N,2562.0,2.85
+475,Leichhardt,3,ALP,Australian Labor Party,N,N,25846.0,28.79
+476,Leichhardt,4,ON,Pauline Hanson's One Nation,N,N,5428.0,6.05
+477,Leichhardt,5,KAP,Katter's Australian Party (KAP),N,N,7318.0,8.15
+478,Leichhardt,6,UAPP,United Australia Party,N,N,3562.0,3.97
+479,Leichhardt,7,LNP,Liberal National Party of Queensland,Y,Y,33753.0,37.59
+480,Leichhardt,8,GRN,The Greens,N,N,9340.0,10.4
+481,Lilley,1,ON,Pauline Hanson's One Nation,N,N,5165.0,5.35
+482,Lilley,2,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1155.0,1.2
+483,Lilley,3,SAL,Socialist Alliance,N,N,743.0,0.77
+484,Lilley,4,LNP,Liberal National Party of Queensland,N,N,39392.0,40.78
+485,Lilley,5,ALP,Australian Labor Party,Y,N,34434.0,35.64
+486,Lilley,6,GRN,The Greens,N,N,13539.0,14.01
+487,Lilley,7,UAPP,United Australia Party,N,N,2177.0,2.25
+488,Longman,1,LNP,Liberal National Party of Queensland,Y,N,38411.0,38.59
+489,Longman,2,UAPP,United Australia Party,N,N,3344.0,3.36
+490,Longman,3,AUP,Australian Progressives,N,N,965.0,0.97
+491,Longman,4,ALP,Australian Labor Party,N,Y,33949.0,34.1
+492,Longman,5,AFN,Australia First Party,N,N,1069.0,1.07
+493,Longman,6,ON,Pauline Hanson's One Nation,N,N,13160.0,13.22
+494,Longman,7,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1967.0,1.98
+495,Longman,8,GRN,The Greens,N,N,6684.0,6.71
+496,Maranoa,1,ALP,Australian Labor Party,N,N,14427.0,15.55
+497,Maranoa,2,LNP,Liberal National Party of Queensland,Y,Y,51950.0,56.0
+498,Maranoa,3,KAP,Katter's Australian Party (KAP),N,N,4245.0,4.58
+499,Maranoa,4,UAPP,United Australia Party,N,N,3367.0,3.63
+500,Maranoa,5,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2030.0,2.19
+501,Maranoa,6,ON,Pauline Hanson's One Nation,N,N,13564.0,14.62
+502,Maranoa,7,GRN,The Greens,N,N,3177.0,3.42
+503,McPherson,1,ALP,Australian Labor Party,N,N,21138.0,22.85
+504,McPherson,2,LDP,Liberal Democrats,N,N,3222.0,3.48
+505,McPherson,3,IND,Independent,N,N,1648.0,1.78
+506,McPherson,4,GRN,The Greens,N,N,10167.0,10.99
+507,McPherson,5,LNP,Liberal National Party of Queensland,Y,Y,44634.0,48.24
+508,McPherson,6,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,846.0,0.91
+509,McPherson,7,AJP,Animal Justice Party,N,N,2367.0,2.56
+510,McPherson,8,UAPP,United Australia Party,N,N,3078.0,3.33
+511,McPherson,9,ON,Pauline Hanson's One Nation,N,N,5421.0,5.86
+512,Moncrieff,1,AJP,Animal Justice Party,N,N,3551.0,3.86
+513,Moncrieff,2,LNP,Liberal National Party of Queensland,Y,N,47356.0,51.52
+514,Moncrieff,3,ON,Pauline Hanson's One Nation,N,N,5920.0,6.44
+515,Moncrieff,4,GRN,The Greens,N,N,8900.0,9.68
+516,Moncrieff,5,UAPP,United Australia Party,N,N,3419.0,3.72
+517,Moncrieff,6,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1152.0,1.25
+518,Moncrieff,7,ALP,Australian Labor Party,N,N,19822.0,21.56
+519,Moncrieff,8,LDP,Liberal Democrats,N,N,1799.0,1.96
+520,Moreton,1,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1561.0,1.72
+521,Moreton,2,ALP,Australian Labor Party,Y,Y,31864.0,35.15
+522,Moreton,3,GRN,The Greens,N,N,15189.0,16.76
+523,Moreton,4,ON,Pauline Hanson's One Nation,N,N,3002.0,3.31
+524,Moreton,5,LNP,Liberal National Party of Queensland,N,N,37011.0,40.83
+525,Moreton,6,UAPP,United Australia Party,N,N,2015.0,2.22
+526,Oxley,1,LNP,Liberal National Party of Queensland,N,N,31290.0,34.57
+527,Oxley,2,GRN,The Greens,N,N,10535.0,11.64
+528,Oxley,3,ALP,Australian Labor Party,Y,Y,38501.0,42.53
+529,Oxley,4,UAPP,United Australia Party,N,N,2368.0,2.62
+530,Oxley,5,ON,Pauline Hanson's One Nation,N,N,5701.0,6.3
+531,Oxley,6,SEP,Socialist Equality Party,N,N,654.0,0.72
+532,Oxley,7,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1474.0,1.63
+533,Petrie,1,UAPP,United Australia Party,N,N,3361.0,3.31
+534,Petrie,2,LNP,Liberal National Party of Queensland,Y,Y,48879.0,48.11
+535,Petrie,3,ON,Pauline Hanson's One Nation,N,N,7638.0,7.52
+536,Petrie,4,ALP,Australian Labor Party,N,N,31348.0,30.86
+537,Petrie,5,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1494.0,1.47
+538,Petrie,6,GRN,The Greens,N,N,8877.0,8.74
+539,Rankin,1,ALP,Australian Labor Party,Y,Y,35156.0,41.43
+540,Rankin,2,UAPP,United Australia Party,N,N,3134.0,3.69
+541,Rankin,3,GRN,The Greens,N,N,7709.0,9.08
+542,Rankin,4,ON,Pauline Hanson's One Nation,N,N,7261.0,8.56
+543,Rankin,5,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1593.0,1.88
+544,Rankin,6,LDP,Liberal Democrats,N,N,2379.0,2.8
+545,Rankin,7,LNP,Liberal National Party of Queensland,N,N,26608.0,31.35
+546,Rankin,8,,,N,N,1024.0,1.21
+547,Ryan,1,ALP,Australian Labor Party,N,N,23560.0,24.43
+548,Ryan,2,UAPP,United Australia Party,N,N,1478.0,1.53
+549,Ryan,3,AJP,Animal Justice Party,N,N,1854.0,1.92
+550,Ryan,4,ON,Pauline Hanson's One Nation,N,N,2080.0,2.16
+551,Ryan,5,LNP,Liberal National Party of Queensland,Y,N,46869.0,48.61
+552,Ryan,6,GRN,The Greens,N,N,19621.0,20.35
+553,Ryan,7,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,964.0,1.0
+554,Wide Bay,1,GRN,The Greens,N,N,9330.0,9.94
+555,Wide Bay,2,ALP,Australian Labor Party,N,N,20418.0,21.75
+556,Wide Bay,3,UAPP,United Australia Party,N,N,3385.0,3.61
+557,Wide Bay,4,LNP,Liberal National Party of Queensland,Y,Y,44204.0,47.09
+558,Wide Bay,5,IND,Independent,N,N,4220.0,4.5
+559,Wide Bay,6,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2149.0,2.29
+560,Wide Bay,7,ON,Pauline Hanson's One Nation,N,N,10166.0,10.83
+561,Wright,1,UAPP,United Australia Party,N,N,4747.0,4.9
+562,Wright,2,GRN,The Greens,N,N,6951.0,7.17
+563,Wright,3,IND,Independent,N,N,5165.0,5.33
+564,Wright,4,ALP,Australian Labor Party,N,N,18155.0,18.74
+565,Wright,5,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2164.0,2.23
+566,Wright,6,KAP,Katter's Australian Party (KAP),N,N,2613.0,2.7
+567,Wright,7,ON,Pauline Hanson's One Nation,N,N,13576.0,14.01
+568,Wright,8,LNP,Liberal National Party of Queensland,Y,Y,43522.0,44.92
+569,Adelaide,1,AUD,Australian Democrats,N,N,2039.0,1.9
+570,Adelaide,2,GRN,The Greens,N,N,16853.0,15.72
+571,Adelaide,3,ALP,Australian Labor Party,Y,Y,43163.0,40.27
+572,Adelaide,4,AJP,Animal Justice Party,N,N,2894.0,2.7
+573,Adelaide,5,LP,Liberal,N,N,38753.0,36.16
+574,Adelaide,6,UAPP,United Australia Party,N,N,3479.0,3.25
+575,Barker,1,GRN,The Greens,N,N,7229.0,6.84
+576,Barker,2,UAPP,United Australia Party,N,N,6259.0,5.92
+577,Barker,3,LP,Liberal,Y,Y,61155.0,57.88
+578,Barker,4,AJP,Animal Justice Party,N,N,2940.0,2.78
+579,Barker,5,XEN,Centre Alliance,N,N,3082.0,2.92
+580,Barker,6,NP,National Party,N,N,2796.0,2.65
+581,Barker,7,ALP,Australian Labor Party,N,N,22205.0,21.01
+582,Boothby,1,AJP,Animal Justice Party,N,N,2675.0,2.42
+583,Boothby,2,GRN,The Greens,N,N,13224.0,11.96
+584,Boothby,3,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,868.0,0.78
+585,Boothby,4,RUA,Rise Up Australia Party,N,N,603.0,0.55
+586,Boothby,5,LP,Liberal,Y,Y,49973.0,45.19
+587,Boothby,6,ALP,Australian Labor Party,N,N,38297.0,34.63
+588,Boothby,7,UAPP,United Australia Party,N,N,2094.0,1.89
+589,Boothby,8,IND,Independent,N,N,2843.0,2.57
+590,Grey,1,AJP,Animal Justice Party,N,N,2681.0,2.59
+591,Grey,2,ALP,Australian Labor Party,N,N,23612.0,22.83
+592,Grey,3,ON,Pauline Hanson's One Nation,N,N,8990.0,8.69
+593,Grey,4,IND,Independent,N,N,1797.0,1.74
+594,Grey,5,UAPP,United Australia Party,N,N,3891.0,3.76
+595,Grey,6,LP,Liberal,Y,Y,52392.0,50.65
+596,Grey,7,XEN,Centre Alliance,N,N,5324.0,5.15
+597,Grey,8,GRN,The Greens,N,N,4760.0,4.6
+598,Hindmarsh,1,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2052.0,1.88
+599,Hindmarsh,2,UAPP,United Australia Party,N,N,4729.0,4.34
+600,Hindmarsh,3,ALP,Australian Labor Party,Y,N,46950.0,43.09
+601,Hindmarsh,4,AJP,Animal Justice Party,N,N,3219.0,2.95
+602,Hindmarsh,5,LP,Liberal,N,N,40039.0,36.75
+603,Hindmarsh,6,GRN,The Greens,N,N,11966.0,10.98
+604,Kingston,1,ALP,Australian Labor Party,Y,Y,53655.0,50.58
+605,Kingston,2,LP,Liberal,N,N,33650.0,31.72
+606,Kingston,3,GRN,The Greens,N,N,9764.0,9.2
+607,Kingston,4,AJP,Animal Justice Party,N,N,3742.0,3.53
+608,Kingston,5,UAPP,United Australia Party,N,N,5270.0,4.97
+609,Makin,1,ALP,Australian Labor Party,Y,Y,51666.0,48.42
+610,Makin,2,LP,Liberal,N,N,35087.0,32.88
+611,Makin,3,AJP,Animal Justice Party,N,N,3866.0,3.62
+612,Makin,4,GRN,The Greens,N,N,9211.0,8.63
+613,Makin,5,UAPP,United Australia Party,N,N,6874.0,6.44
+614,Mayo,1,LP,Liberal,N,N,42426.0,37.65
+615,Mayo,2,GRN,The Greens,N,N,10436.0,9.26
+616,Mayo,3,AJP,Animal Justice Party,N,N,2302.0,2.04
+617,Mayo,4,UAPP,United Australia Party,N,N,3597.0,3.19
+618,Mayo,5,ALP,Australian Labor Party,N,N,15390.0,13.66
+619,Mayo,6,XEN,Centre Alliance,Y,Y,38525.0,34.19
+620,Spence,1,ALP,Australian Labor Party,Y,Y,51791.0,50.96
+621,Spence,2,LP,Liberal,N,N,26252.0,25.83
+622,Spence,3,UAPP,United Australia Party,N,N,7157.0,7.04
+623,Spence,4,GRN,The Greens,N,N,7330.0,7.21
+624,Spence,5,AJP,Animal Justice Party,N,N,3626.0,3.57
+625,Spence,6,IND,Independent,N,N,5473.0,5.39
+626,Sturt,1,GRN,The Greens,N,N,12263.0,11.18
+627,Sturt,2,LP,Liberal,Y,N,55490.0,50.57
+628,Sturt,3,ALP,Australian Labor Party,N,N,32766.0,29.86
+629,Sturt,4,AJP,Animal Justice Party,N,N,1866.0,1.7
+630,Sturt,5,UAPP,United Australia Party,N,N,2657.0,2.42
+631,Sturt,6,CPP,Child Protection Party,N,N,1219.0,1.11
+632,Sturt,7,AUP,Australian Progressives,N,N,565.0,0.51
+633,Sturt,8,IND,Independent,N,N,2906.0,2.65
+634,Bass,1,GRN,The Greens,N,N,7202.0,10.48
+635,Bass,2,ALP,Australian Labor Party,N,Y,23878.0,34.74
+636,Bass,3,AJP,Animal Justice Party,N,N,1667.0,2.43
+637,Bass,4,LP,Liberal,Y,N,29094.0,42.33
+638,Bass,5,IND,Independent,N,N,2607.0,3.79
+639,Bass,6,UAPP,United Australia Party,N,N,3342.0,4.86
+640,Bass,7,NP,The Nationals,N,N,943.0,1.37
+641,Braddon,1,UAPP,United Australia Party,N,N,2575.0,3.68
+642,Braddon,2,IND,Independent,N,N,7619.0,10.89
+643,Braddon,3,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,712.0,1.02
+644,Braddon,4,LP,Liberal,Y,N,26513.0,37.89
+645,Braddon,5,NP,The Nationals,N,N,1654.0,2.36
+646,Braddon,6,GRN,The Greens,N,N,3384.0,4.84
+647,Braddon,7,IND,Independent,N,N,1203.0,1.72
+648,Braddon,8,ALP,Australian Labor Party,N,Y,22434.0,32.06
+649,Braddon,9,ON,Pauline Hanson's One Nation,N,N,3879.0,5.54
+650,Clark,1,IND,Independent,Y,Y,33761.0,50.05
+651,Clark,2,ALP,Australian Labor Party,N,N,13641.0,20.22
+652,Clark,3,LP,Liberal,N,N,11719.0,17.37
+653,Clark,4,GRN,The Greens,N,N,6458.0,9.57
+654,Clark,5,UAPP,United Australia Party,N,N,1882.0,2.79
+655,Franklin,1,GRN,The Greens,N,N,11420.0,16.25
+656,Franklin,2,LP,Liberal,N,N,21969.0,31.27
+657,Franklin,3,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1257.0,1.79
+658,Franklin,4,ALP,Australian Labor Party,Y,Y,30911.0,43.99
+659,Franklin,5,UAPP,United Australia Party,N,N,4704.0,6.7
+660,Lyons,1,NP,The Nationals,N,N,11222.0,15.68
+661,Lyons,2,ALP,Australian Labor Party,Y,Y,26091.0,36.46
+662,Lyons,3,GRN,The Greens,N,N,6765.0,9.45
+663,Lyons,4,ON,Pauline Hanson's One Nation,N,N,5820.0,8.13
+664,Lyons,5,LP,Liberal,N,N,17301.0,24.18
+665,Lyons,6,UAPP,United Australia Party,N,N,4365.0,6.1
+666,Aston,1,LP,Liberal,Y,Y,54744.0,54.69
+667,Aston,2,GVIC,The Greens (VIC),N,N,8867.0,8.86
+668,Aston,3,ALP,Australian Labor Party,N,N,29839.0,29.81
+669,Aston,4,UAPP,United Australia Party,N,N,3611.0,3.61
+670,Aston,5,DLP,Labour DLP,N,N,3029.0,3.03
+671,Ballarat,1,AJP,Animal Justice Party,N,N,4393.0,4.28
+672,Ballarat,2,UAPP,United Australia Party,N,N,4741.0,4.62
+673,Ballarat,3,IND,Independent,N,N,1645.0,1.6
+674,Ballarat,4,IND,Independent,N,N,2288.0,2.23
+675,Ballarat,5,GVIC,The Greens (VIC),N,N,9077.0,8.84
+676,Ballarat,6,LP,Liberal,N,N,31462.0,30.64
+677,Ballarat,7,ALP,Australian Labor Party,Y,Y,49077.0,47.79
+678,Bendigo,1,RUA,Rise Up Australia Party,N,N,1464.0,1.44
+679,Bendigo,2,GVIC,The Greens (VIC),N,N,11381.0,11.2
+680,Bendigo,3,ALP,Australian Labor Party,Y,Y,44340.0,43.62
+681,Bendigo,4,UAPP,United Australia Party,N,N,4321.0,4.25
+682,Bendigo,5,LP,Liberal,N,N,32210.0,31.68
+683,Bendigo,6,ON,Pauline Hanson's One Nation,N,N,6278.0,6.18
+684,Bendigo,7,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1667.0,1.64
+685,Bruce,1,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,3377.0,3.63
+686,Bruce,2,UAPP,United Australia Party,N,N,3979.0,4.28
+687,Bruce,3,LP,Liberal,N,N,27170.0,29.2
+688,Bruce,4,ALP,Australian Labor Party,Y,Y,51713.0,55.58
+689,Bruce,5,GVIC,The Greens (VIC),N,N,6801.0,7.31
+690,Calwell,1,CEC,Citizens Electoral Council,N,N,2851.0,3.26
+691,Calwell,2,GVIC,The Greens (VIC),N,N,5893.0,6.74
+692,Calwell,3,ALP,Australian Labor Party,Y,Y,47115.0,53.88
+693,Calwell,4,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1771.0,2.03
+694,Calwell,5,VNS,Victorian Socialists,N,N,3984.0,4.56
+695,Calwell,6,UAPP,United Australia Party,N,N,3037.0,3.47
+696,Calwell,7,SEP,Socialist Equality Party,N,N,823.0,0.94
+697,Calwell,8,LP,Liberal,N,N,21978.0,25.13
+698,Casey,1,IND,Independent,N,N,2302.0,2.31
+699,Casey,2,RUA,Rise Up Australia Party,N,N,820.0,0.82
+700,Casey,3,DLP,Labour DLP,N,N,2246.0,2.25
+701,Casey,4,AJP,Animal Justice Party,N,N,3105.0,3.11
+702,Casey,5,UAPP,United Australia Party,N,N,2607.0,2.61
+703,Casey,6,DHJP,Derryn Hinch's Justice Party,N,N,3309.0,3.31
+704,Casey,7,LP,Liberal,Y,Y,45168.0,45.25
+705,Casey,8,ALP,Australian Labor Party,N,N,28551.0,28.6
+706,Casey,9,GVIC,The Greens (VIC),N,N,10919.0,10.94
+707,Casey,10,GAP,The Great Australian Party,N,N,801.0,0.8
+708,Chisholm,1,IND,Independent,N,N,2319.0,2.44
+709,Chisholm,2,RUA,Rise Up Australia Party,N,N,571.0,0.6
+710,Chisholm,3,GVIC,The Greens (VIC),N,N,11235.0,11.84
+711,Chisholm,4,LP,Liberal,Y,N,41172.0,43.38
+712,Chisholm,5,AJP,Animal Justice Party,N,N,1780.0,1.88
+713,Chisholm,6,DHJP,Derryn Hinch's Justice Party,N,N,2063.0,2.17
+714,Chisholm,7,UAPP,United Australia Party,N,N,1517.0,1.6
+715,Chisholm,8,ALP,Australian Labor Party,N,N,32561.0,34.3
+716,Chisholm,9,DLP,Labour DLP,N,N,1702.0,1.79
+717,Cooper,1,IND,Independent,N,N,1660.0,1.7
+718,Cooper,2,REAS,Reason Australia,N,N,2110.0,2.16
+719,Cooper,3,UAPP,United Australia Party,N,N,1892.0,1.94
+720,Cooper,4,AJP,Animal Justice Party,N,N,2476.0,2.54
+721,Cooper,5,GVIC,The Greens (VIC),N,N,20605.0,21.14
+722,Cooper,6,VNS,Victorian Socialists,N,N,4125.0,4.23
+723,Cooper,7,ALP,Australian Labor Party,Y,Y,45601.0,46.78
+724,Cooper,8,LP,Liberal,N,N,19012.0,19.5
+725,Corangamite,1,RUA,Rise Up Australia Party,N,N,1117.0,1.1
+726,Corangamite,2,ALP,Australian Labor Party,Y,N,36047.0,35.47
+727,Corangamite,3,GVIC,The Greens (VIC),N,N,9184.0,9.04
+728,Corangamite,4,AJP,Animal Justice Party,N,N,2143.0,2.11
+729,Corangamite,5,IND,Independent,N,N,5131.0,5.05
+730,Corangamite,6,LP,Liberal,N,Y,43017.0,42.33
+731,Corangamite,7,UAPP,United Australia Party,N,N,2257.0,2.22
+732,Corangamite,8,DHJP,Derryn Hinch's Justice Party,N,N,2724.0,2.68
+733,Corio,1,ALP,Australian Labor Party,Y,Y,47010.0,47.6
+734,Corio,2,LP,Liberal,N,N,33426.0,33.85
+735,Corio,3,GVIC,The Greens (VIC),N,N,12902.0,13.07
+736,Corio,4,UAPP,United Australia Party,N,N,5414.0,5.48
+737,Deakin,1,DHJP,Derryn Hinch's Justice Party,N,N,3386.0,3.48
+738,Deakin,2,IND,Independent,N,N,1614.0,1.66
+739,Deakin,3,GVIC,The Greens (VIC),N,N,8730.0,8.98
+740,Deakin,4,LP,Liberal,Y,Y,46536.0,47.84
+741,Deakin,5,UAPP,United Australia Party,N,N,1997.0,2.05
+742,Deakin,6,AJP,Animal Justice Party,N,N,1964.0,2.02
+743,Deakin,7,ALP,Australian Labor Party,N,N,31648.0,32.54
+744,Deakin,8,DLP,Labour DLP,N,N,1394.0,1.43
+745,Dunkley,1,DHJP,Derryn Hinch's Justice Party,N,N,5027.0,5.19
+746,Dunkley,2,AJP,Animal Justice Party,N,N,2961.0,3.06
+747,Dunkley,3,UAPP,United Australia Party,N,N,2513.0,2.6
+748,Dunkley,4,ALP,Australian Labor Party,Y,N,37301.0,38.52
+749,Dunkley,5,GVIC,The Greens (VIC),N,N,8125.0,8.39
+750,Dunkley,6,LP,Liberal,N,Y,38616.0,39.88
+751,Dunkley,7,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1337.0,1.38
+752,Dunkley,8,RUA,Rise Up Australia Party,N,N,948.0,0.98
+753,Flinders,1,IND,Independent,N,N,940.0,0.97
+754,Flinders,2,AJP,Animal Justice Party,N,N,2304.0,2.38
+755,Flinders,3,LP,Liberal,Y,Y,45293.0,46.72
+756,Flinders,4,SPP,Sustainable Australia,N,N,1072.0,1.11
+757,Flinders,5,ALP,Australian Labor Party,N,N,23982.0,24.74
+758,Flinders,6,GVIC,The Greens (VIC),N,N,6599.0,6.81
+759,Flinders,7,UAPP,United Australia Party,N,N,2447.0,2.52
+760,Flinders,8,IND,Independent,N,Y,13367.0,13.79
+761,Flinders,9,IND,Independent,N,N,948.0,0.98
+762,Fraser,1,UAPP,United Australia Party,N,N,7314.0,7.9
+763,Fraser,2,LP,Liberal,N,N,23929.0,25.85
+764,Fraser,3,ALP,Australian Labor Party,Y,N,46709.0,50.46
+765,Fraser,4,GAP,The Great Australian Party,N,N,1656.0,1.79
+766,Fraser,5,GVIC,The Greens (VIC),N,N,7645.0,8.26
+767,Fraser,6,IND,Independent,N,N,5306.0,5.73
+768,Gellibrand,1,ALP,Australian Labor Party,Y,Y,47942.0,48.66
+769,Gellibrand,2,GVIC,The Greens (VIC),N,N,16303.0,16.55
+770,Gellibrand,3,LP,Liberal,N,N,28895.0,29.33
+771,Gellibrand,4,UAPP,United Australia Party,N,N,5391.0,5.47
+772,Gippsland,1,ASP,"Shooters, Fishers and Farmers",N,N,6872.0,7.11
+773,Gippsland,2,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,2043.0,2.11
+774,Gippsland,3,UAPP,United Australia Party,N,N,4257.0,4.4
+775,Gippsland,4,ALP,Australian Labor Party,N,N,22426.0,23.2
+776,Gippsland,5,IND,Independent,N,N,3043.0,3.15
+777,Gippsland,6,NP,The Nationals,Y,Y,52202.0,54.0
+778,Gippsland,7,GVIC,The Greens (VIC),N,N,5835.0,6.04
+779,Goldstein,1,UAPP,United Australia Party,N,N,1945.0,1.96
+780,Goldstein,2,SPP,Sustainable Australia,N,N,1653.0,1.66
+781,Goldstein,3,ALP,Australian Labor Party,N,N,28118.0,28.31
+782,Goldstein,4,GVIC,The Greens (VIC),N,N,13951.0,14.04
+783,Goldstein,5,LP,Liberal,Y,Y,52320.0,52.67
+784,Goldstein,6,IND,Independent,N,N,1349.0,1.36
+785,Gorton,1,UAPP,United Australia Party,N,N,7473.0,7.9
+786,Gorton,2,IND,Independent,N,N,8363.0,8.84
+787,Gorton,3,GVIC,The Greens (VIC),N,N,6730.0,7.11
+788,Gorton,4,ALP,Australian Labor Party,Y,Y,47398.0,50.08
+789,Gorton,5,LP,Liberal,N,N,24677.0,26.07
+790,Higgins,1,GVIC,The Greens (VIC),N,N,22573.0,22.47
+791,Higgins,2,SPP,Sustainable Australia,N,N,1338.0,1.33
+792,Higgins,3,AJP,Animal Justice Party,N,N,1729.0,1.72
+793,Higgins,4,LP,Liberal,Y,N,48091.0,47.86
+794,Higgins,5,ALP,Australian Labor Party,N,N,25498.0,25.38
+795,Higgins,6,UAPP,United Australia Party,N,N,1249.0,1.24
+796,Holt,1,ALP,Australian Labor Party,Y,Y,48031.0,50.73
+797,Holt,2,GVIC,The Greens (VIC),N,N,6735.0,7.11
+798,Holt,3,UAPP,United Australia Party,N,N,5958.0,6.29
+799,Holt,4,LP,Liberal,N,N,33963.0,35.87
+800,Hotham,1,UAPP,United Australia Party,N,N,3483.0,3.63
+801,Hotham,2,ALP,Australian Labor Party,Y,Y,43310.0,45.18
+802,Hotham,3,LP,Liberal,N,N,37447.0,39.06
+803,Hotham,4,GVIC,The Greens (VIC),N,N,8722.0,9.1
+804,Hotham,5,RUA,Rise Up Australia Party,N,N,1134.0,1.18
+805,Hotham,6,SPP,Sustainable Australia,N,N,1772.0,1.85
+806,Indi,1,GVIC,The Greens (VIC),N,N,4255.0,4.21
+807,Indi,2,DHJP,Derryn Hinch's Justice Party,N,N,2891.0,2.86
+808,Indi,3,IND,Independent,Y,N,32664.0,32.35
+809,Indi,4,LP,Liberal,N,N,35426.0,35.09
+810,Indi,5,NP,The Nationals,N,N,9538.0,9.45
+811,Indi,6,UAPP,United Australia Party,N,N,3980.0,3.94
+812,Indi,7,ALP,Australian Labor Party,N,N,12202.0,12.09
+813,Isaacs,1,GVIC,The Greens (VIC),N,N,10822.0,11.18
+814,Isaacs,2,LP,Liberal,N,N,34089.0,35.2
+815,Isaacs,3,RUA,Rise Up Australia Party,N,N,1142.0,1.18
+816,Isaacs,4,AJP,Animal Justice Party,N,N,3607.0,3.72
+817,Isaacs,5,ALP,Australian Labor Party,Y,Y,43364.0,44.78
+818,Isaacs,6,UAPP,United Australia Party,N,N,3813.0,3.94
+819,Jagajaga,1,UAPP,United Australia Party,N,N,3652.0,3.74
+820,Jagajaga,2,ALP,Australian Labor Party,Y,N,41086.0,42.02
+821,Jagajaga,3,RUA,Rise Up Australia Party,N,N,1345.0,1.38
+822,Jagajaga,4,LP,Liberal,N,N,37755.0,38.62
+823,Jagajaga,5,GVIC,The Greens (VIC),N,N,13929.0,14.25
+824,Kooyong,1,UAPP,United Australia Party,N,N,1185.0,1.2
+825,Kooyong,2,IND,Independent,N,N,8890.0,8.98
+826,Kooyong,3,IND,Independent,N,N,539.0,0.54
+827,Kooyong,4,LP,Liberal,Y,Y,48928.0,49.41
+828,Kooyong,5,ALP,Australian Labor Party,N,N,16666.0,16.83
+829,Kooyong,6,AJP,Animal Justice Party,N,N,1117.0,1.13
+830,Kooyong,7,GVIC,The Greens (VIC),N,N,21035.0,21.24
+831,Kooyong,8,IND,Independent,N,N,669.0,0.68
+832,La Trobe,1,GVIC,The Greens (VIC),N,N,7752.0,7.85
+833,La Trobe,2,RUA,Rise Up Australia Party,N,N,947.0,0.96
+834,La Trobe,3,LP,Liberal,Y,Y,45123.0,45.72
+835,La Trobe,4,ON,Pauline Hanson's One Nation,N,N,4796.0,4.86
+836,La Trobe,5,UAPP,United Australia Party,N,N,2506.0,2.54
+837,La Trobe,6,ALP,Australian Labor Party,N,N,34040.0,34.49
+838,La Trobe,7,DHJP,Derryn Hinch's Justice Party,N,N,3525.0,3.57
+839,Lalor,1,AFN,Australia First Party,N,N,4094.0,4.38
+840,Lalor,2,LP,Liberal,N,N,28209.0,30.18
+841,Lalor,3,ALP,Australian Labor Party,Y,Y,48332.0,51.7
+842,Lalor,4,UAPP,United Australia Party,N,N,4451.0,4.76
+843,Lalor,5,GVIC,The Greens (VIC),N,N,7273.0,7.78
+844,Lalor,6,,,N,N,1119.0,1.2
+845,Macnamara,1,IND,Independent,N,N,1108.0,1.14
+846,Macnamara,2,GVIC,The Greens (VIC),N,N,23534.0,24.24
+847,Macnamara,3,SPP,Sustainable Australia,N,N,974.0,1.0
+848,Macnamara,4,LP,Liberal,N,N,36283.0,37.37
+849,Macnamara,5,IND,Independent,N,N,918.0,0.95
+850,Macnamara,6,AJP,Animal Justice Party,N,N,1919.0,1.98
+851,Macnamara,7,RUA,Rise Up Australia Party,N,N,365.0,0.38
+852,Macnamara,8,UAPP,United Australia Party,N,N,1136.0,1.17
+853,Macnamara,9,ALP,Australian Labor Party,Y,N,30855.0,31.78
+854,Mallee,1,LP,Liberal,N,N,17665.0,18.83
+855,Mallee,2,IND,Independent,N,N,2761.0,2.94
+856,Mallee,3,IND,Independent,N,N,8795.0,9.37
+857,Mallee,4,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1309.0,1.4
+858,Mallee,5,NP,The Nationals,Y,N,26142.0,27.86
+859,Mallee,6,CEC,Citizens Electoral Council,N,N,416.0,0.44
+860,Mallee,7,RUA,Rise Up Australia Party,N,N,919.0,0.98
+861,Mallee,8,ALP,Australian Labor Party,N,N,14722.0,15.69
+862,Mallee,9,FUT,Science Party,N,N,497.0,0.53
+863,Mallee,10,IND,Independent,N,N,8621.0,9.19
+864,Mallee,11,ASP,"Shooters, Fishers and Farmers",N,N,5512.0,5.87
+865,Mallee,12,UAPP,United Australia Party,N,N,3171.0,3.38
+866,Mallee,13,GVIC,The Greens (VIC),N,N,3297.0,3.51
+867,Maribyrnong,1,UAPP,United Australia Party,N,N,3617.0,3.58
+868,Maribyrnong,2,GVIC,The Greens (VIC),N,N,14943.0,14.81
+869,Maribyrnong,3,ALP,Australian Labor Party,Y,Y,47487.0,47.05
+870,Maribyrnong,4,LP,Liberal,N,N,34877.0,34.56
+871,McEwen,1,GVIC,The Greens (VIC),N,N,8026.0,8.35
+872,McEwen,2,AJP,Animal Justice Party,N,N,2890.0,3.01
+873,McEwen,3,ALP,Australian Labor Party,Y,Y,37911.0,39.44
+874,McEwen,4,LP,Liberal,N,N,33162.0,34.5
+875,McEwen,5,DHJP,Derryn Hinch's Justice Party,N,N,3878.0,4.03
+876,McEwen,6,IND,Independent,N,N,1552.0,1.61
+877,McEwen,7,ON,Pauline Hanson's One Nation,N,N,5693.0,5.92
+878,McEwen,8,UAPP,United Australia Party,N,N,3016.0,3.14
+879,Melbourne,1,REAS,Reason Australia,N,N,4756.0,5.11
+880,Melbourne,2,GVIC,The Greens (VIC),Y,Y,45876.0,49.3
+881,Melbourne,3,IND,Independent,N,N,1154.0,1.24
+882,Melbourne,4,AJP,Animal Justice Party,N,N,1849.0,1.99
+883,Melbourne,5,LP,Liberal,N,N,19979.0,21.47
+884,Melbourne,6,ALP,Australian Labor Party,N,N,18371.0,19.74
+885,Melbourne,7,UAPP,United Australia Party,N,N,1079.0,1.16
+886,Menzies,1,DLP,Labour DLP,N,N,3026.0,3.08
+887,Menzies,2,LP,Liberal,Y,Y,50863.0,51.73
+888,Menzies,3,ALP,Australian Labor Party,N,N,29539.0,30.04
+889,Menzies,4,REAS,Reason Australia,N,N,2029.0,2.06
+890,Menzies,5,UAPP,United Australia Party,N,N,2605.0,2.65
+891,Menzies,6,GVIC,The Greens (VIC),N,N,10264.0,10.44
+892,Monash,1,IND,Independent,N,N,2723.0,2.71
+893,Monash,2,IND,Independent,N,N,2870.0,2.86
+894,Monash,3,ON,Pauline Hanson's One Nation,N,N,7656.0,7.62
+895,Monash,4,ALP,Australian Labor Party,N,N,29656.0,29.51
+896,Monash,5,GVIC,The Greens (VIC),N,N,7047.0,7.01
+897,Monash,6,LP,Liberal,Y,Y,46501.0,46.28
+898,Monash,7,UAPP,United Australia Party,N,N,4028.0,4.01
+899,Nicholls,1,NP,The Nationals,Y,Y,48855.0,51.27
+900,Nicholls,2,IND,Independent,N,N,1772.0,1.86
+901,Nicholls,3,IND,Independent,N,N,4581.0,4.81
+902,Nicholls,4,UAPP,United Australia Party,N,N,5077.0,5.33
+903,Nicholls,5,ALP,Australian Labor Party,N,N,18493.0,19.41
+904,Nicholls,6,GVIC,The Greens (VIC),N,N,4011.0,4.21
+905,Nicholls,7,ON,Pauline Hanson's One Nation,N,N,10754.0,11.29
+906,Nicholls,8,IND,Independent,N,N,1749.0,1.84
+907,Scullin,1,ALP,Australian Labor Party,Y,Y,55467.0,60.42
+908,Scullin,2,UAPP,United Australia Party,N,N,4625.0,5.04
+909,Scullin,3,GVIC,The Greens (VIC),N,N,6128.0,6.67
+910,Scullin,4,AJP,Animal Justice Party,N,N,3500.0,3.81
+911,Scullin,5,LP,Liberal,N,N,20484.0,22.31
+912,Scullin,6,IND,Independent,N,N,1605.0,1.75
+913,Wannon,1,GVIC,The Greens (VIC),N,N,6590.0,6.34
+914,Wannon,2,UAPP,United Australia Party,N,N,6258.0,6.02
+915,Wannon,3,ALP,Australian Labor Party,N,N,27150.0,26.13
+916,Wannon,4,IND,Independent,N,N,10797.0,10.39
+917,Wannon,5,LP,Liberal,Y,Y,53094.0,51.11
+918,Wills,1,AJP,Animal Justice Party,N,N,3596.0,3.74
+919,Wills,2,VNS,Victorian Socialists,N,N,4344.0,4.52
+920,Wills,3,LP,Liberal,N,N,17241.0,17.94
+921,Wills,4,GVIC,The Greens (VIC),N,N,25575.0,26.62
+922,Wills,5,UAPP,United Australia Party,N,N,2979.0,3.1
+923,Wills,6,ALP,Australian Labor Party,Y,Y,42355.0,44.08
+924,Brand,1,AUC,Australian Christians,N,N,2726.0,3.07
+925,Brand,2,ALP,Australian Labor Party,Y,Y,35875.0,40.38
+926,Brand,3,LP,Liberal,N,N,26510.0,29.84
+927,Brand,4,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1376.0,1.55
+928,Brand,5,GRN,The Greens (WA),N,N,9863.0,11.1
+929,Brand,6,UAPP,United Australia Party,N,N,2570.0,2.89
+930,Brand,7,WAP,WESTERN AUSTRALIA PARTY,N,N,2397.0,2.7
+931,Brand,8,ON,Pauline Hanson's One Nation,N,N,7524.0,8.47
+932,Burt,1,GRN,The Greens (WA),N,N,8285.0,9.41
+933,Burt,2,ALP,Australian Labor Party,Y,Y,36058.0,40.96
+934,Burt,3,ON,Pauline Hanson's One Nation,N,N,5116.0,5.81
+935,Burt,4,WAP,WESTERN AUSTRALIA PARTY,N,N,901.0,1.02
+936,Burt,5,IND,Independent,N,N,1149.0,1.31
+937,Burt,6,LP,Liberal,N,N,29420.0,33.42
+938,Burt,7,UAPP,United Australia Party,N,N,1871.0,2.13
+939,Burt,8,AUC,Australian Christians,N,N,3298.0,3.75
+940,Burt,9,ASP,"Shooters, Fishers and Farmers",N,N,1942.0,2.21
+941,Canning,1,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,1600.0,1.76
+942,Canning,2,ON,Pauline Hanson's One Nation,N,N,6503.0,7.15
+943,Canning,3,AUC,Australian Christians,N,N,1764.0,1.94
+944,Canning,4,GRN,The Greens (WA),N,N,6840.0,7.53
+945,Canning,5,UAPP,United Australia Party,N,N,2055.0,2.26
+946,Canning,6,LP,Liberal,Y,Y,44580.0,49.05
+947,Canning,7,ALP,Australian Labor Party,N,N,24996.0,27.5
+948,Canning,8,WAP,WESTERN AUSTRALIA PARTY,N,N,2554.0,2.81
+949,Cowan,1,GRN,The Greens (WA),N,N,8551.0,10.08
+950,Cowan,2,ALP,Australian Labor Party,Y,Y,32353.0,38.13
+951,Cowan,3,UAPP,United Australia Party,N,N,2171.0,2.56
+952,Cowan,4,AUC,Australian Christians,N,N,1981.0,2.33
+953,Cowan,5,ON,Pauline Hanson's One Nation,N,N,4777.0,5.63
+954,Cowan,6,ASP,"Shooters, Fishers and Farmers",N,N,1582.0,1.86
+955,Cowan,7,LP,Liberal,N,N,33438.0,39.41
+956,Curtin,1,UAPP,United Australia Party,N,N,1114.0,1.25
+957,Curtin,2,GRN,The Greens (WA),N,N,13847.0,15.55
+958,Curtin,3,LP,Liberal,Y,N,48256.0,54.18
+959,Curtin,4,IND,Independent,N,N,6902.0,7.75
+960,Curtin,5,ON,Pauline Hanson's One Nation,N,N,1054.0,1.18
+961,Curtin,6,AUC,Australian Christians,N,N,854.0,0.96
+962,Curtin,7,ALP,Australian Labor Party,N,N,15692.0,17.62
+963,Curtin,8,WAP,WESTERN AUSTRALIA PARTY,N,N,1343.0,1.51
+964,Durack,1,LP,Liberal,Y,Y,34429.0,44.3
+965,Durack,2,WAP,WESTERN AUSTRALIA PARTY,N,N,2895.0,3.72
+966,Durack,3,ON,Pauline Hanson's One Nation,N,N,7407.0,9.53
+967,Durack,4,GRN,The Greens (WA),N,N,6287.0,8.09
+968,Durack,5,ALP,Australian Labor Party,N,N,16742.0,21.54
+969,Durack,6,UAPP,United Australia Party,N,N,2083.0,2.68
+970,Durack,7,NP,The Nationals,N,N,7878.0,10.14
+971,Forrest,1,GRN,The Greens (WA),N,N,11645.0,12.87
+972,Forrest,2,ASP,"Shooters, Fishers and Farmers",N,N,2881.0,3.18
+973,Forrest,3,LP,Liberal,Y,Y,47470.0,52.48
+974,Forrest,4,ON,Pauline Hanson's One Nation,N,N,5371.0,5.94
+975,Forrest,5,IND,Independent,N,N,1238.0,1.37
+976,Forrest,6,WAP,WESTERN AUSTRALIA PARTY,N,N,1167.0,1.29
+977,Forrest,7,ALP,Australian Labor Party,N,N,19126.0,21.14
+978,Forrest,8,UAPP,United Australia Party,N,N,1564.0,1.73
+979,Fremantle,1,WAP,WESTERN AUSTRALIA PARTY,N,N,2333.0,2.56
+980,Fremantle,2,ALP,Australian Labor Party,Y,Y,34636.0,38.02
+981,Fremantle,3,ON,Pauline Hanson's One Nation,N,N,3485.0,3.83
+982,Fremantle,4,UAPP,United Australia Party,N,N,1767.0,1.94
+983,Fremantle,5,SAL,Socialist Alliance,N,N,990.0,1.09
+984,Fremantle,6,LP,Liberal,N,N,31862.0,34.97
+985,Fremantle,7,GRN,The Greens (WA),N,N,14574.0,16.0
+986,Fremantle,8,AUC,Australian Christians,N,N,1456.0,1.6
+987,Hasluck,1,ASP,"Shooters, Fishers and Farmers",N,N,2436.0,2.89
+988,Hasluck,2,WAP,WESTERN AUSTRALIA PARTY,N,N,1542.0,1.83
+989,Hasluck,3,LP,Liberal,Y,Y,36735.0,43.63
+990,Hasluck,4,ALP,Australian Labor Party,N,N,25792.0,30.63
+991,Hasluck,5,AUC,Australian Christians,N,N,1679.0,1.99
+992,Hasluck,6,ON,Pauline Hanson's One Nation,N,N,4445.0,5.28
+993,Hasluck,7,UAPP,United Australia Party,N,N,1920.0,2.28
+994,Hasluck,8,GRN,The Greens (WA),N,N,9651.0,11.46
+995,Moore,1,ON,Pauline Hanson's One Nation,N,N,4113.0,4.63
+996,Moore,2,LP,Liberal,Y,Y,45503.0,51.25
+997,Moore,3,GRN,The Greens (WA),N,N,10735.0,12.09
+998,Moore,4,AUC,Australian Christians,N,N,1259.0,1.42
+999,Moore,5,WAP,WESTERN AUSTRALIA PARTY,N,N,1428.0,1.61
+1000,Moore,6,ALP,Australian Labor Party,N,N,21760.0,24.51
+1001,Moore,7,IND,Independent,N,N,2390.0,2.69
+1002,Moore,8,UAPP,United Australia Party,N,N,1591.0,1.79
+1003,O'Connor,1,NP,The Nationals,N,N,10795.0,12.56
+1004,O'Connor,2,GRN,The Greens (WA),N,N,7245.0,8.43
+1005,O'Connor,3,ALP,Australian Labor Party,N,N,18243.0,21.22
+1006,O'Connor,4,UAPP,United Australia Party,N,N,1598.0,1.86
+1007,O'Connor,5,LP,Liberal,Y,Y,36135.0,42.04
+1008,O'Connor,6,AUC,Australian Christians,N,N,2527.0,2.94
+1009,O'Connor,7,WAP,WESTERN AUSTRALIA PARTY,N,N,1279.0,1.49
+1010,O'Connor,8,ON,Pauline Hanson's One Nation,N,N,7252.0,8.44
+1011,O'Connor,9,GAP,The Great Australian Party,N,N,883.0,1.03
+1012,Pearce,1,ON,Pauline Hanson's One Nation,N,N,8199.0,8.21
+1013,Pearce,2,ALP,Australian Labor Party,N,N,29027.0,29.05
+1014,Pearce,3,LP,Liberal,Y,Y,43689.0,43.72
+1015,Pearce,4,WAP,WESTERN AUSTRALIA PARTY,N,N,1305.0,1.31
+1016,Pearce,5,AUC,Australian Christians,N,N,1609.0,1.61
+1017,Pearce,6,GRN,The Greens (WA),N,N,8676.0,8.68
+1018,Pearce,7,NP,The Nationals,N,N,1342.0,1.34
+1019,Pearce,8,UAPP,United Australia Party,N,N,2495.0,2.5
+1020,Pearce,9,ASP,"Shooters, Fishers and Farmers",N,N,2125.0,2.13
+1021,Pearce,10,IND,Independent,N,N,1456.0,1.46
+1022,Perth,1,WAP,WESTERN AUSTRALIA PARTY,N,N,2222.0,2.53
+1023,Perth,2,ALP,Australian Labor Party,Y,Y,30207.0,34.44
+1024,Perth,3,LP,Liberal,N,N,32800.0,37.4
+1025,Perth,4,FUT,Science Party,N,N,1329.0,1.52
+1026,Perth,5,UAPP,United Australia Party,N,N,1661.0,1.89
+1027,Perth,6,GRN,The Greens (WA),N,N,16552.0,18.87
+1028,Perth,7,ON,Pauline Hanson's One Nation,N,N,2333.0,2.66
+1029,Perth,8,FLUX,VOTEFLUX.ORG | Upgrade Democracy!,N,N,602.0,0.69
+1030,Stirling,1,ON,Pauline Hanson's One Nation,N,N,3129.0,3.61
+1031,Stirling,2,GRN,The Greens (WA),N,N,10439.0,12.03
+1032,Stirling,3,UAPP,United Australia Party,N,N,1577.0,1.82
+1033,Stirling,4,LP,Liberal,Y,N,40757.0,46.97
+1034,Stirling,5,WAP,WESTERN AUSTRALIA PARTY,N,N,1750.0,2.02
+1035,Stirling,6,AUC,Australian Christians,N,N,1504.0,1.73
+1036,Stirling,7,ALP,Australian Labor Party,N,N,27623.0,31.83
+1037,Swan,1,LP,Liberal,Y,Y,37591.0,44.68
+1038,Swan,2,AUC,Australian Christians,N,N,1450.0,1.72
+1039,Swan,3,AJP,Animal Justice Party,N,N,1304.0,1.55
+1040,Swan,4,FACN,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,N,N,599.0,0.71
+1041,Swan,5,WAP,WESTERN AUSTRALIA PARTY,N,N,1102.0,1.31
+1042,Swan,6,GRN,The Greens (WA),N,N,10367.0,12.32
+1043,Swan,7,AFN,Australia First Party,N,N,251.0,0.3
+1044,Swan,8,UAPP,United Australia Party,N,N,1482.0,1.76
+1045,Swan,9,ON,Pauline Hanson's One Nation,N,N,2038.0,2.42
+1046,Swan,10,ALP,Australian Labor Party,N,N,27953.0,33.22
+1047,Tangney,1,ALP,Australian Labor Party,N,N,21644.0,25.95
+1048,Tangney,2,ON,Pauline Hanson's One Nation,N,N,1732.0,2.08
+1049,Tangney,3,IND,Independent,N,N,1933.0,2.32
+1050,Tangney,4,AUC,Australian Christians,N,N,1695.0,2.03
+1051,Tangney,5,IND,Independent,N,N,307.0,0.37
+1052,Tangney,6,GRN,The Greens (WA),N,N,9319.0,11.17
+1053,Tangney,7,LP,Liberal,Y,Y,44740.0,53.63
+1054,Tangney,8,UAPP,United Australia Party,N,N,969.0,1.16
+1055,Tangney,9,WAP,WESTERN AUSTRALIA PARTY,N,N,1080.0,1.29

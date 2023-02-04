@@ -1,0 +1,170 @@
+SEXP Sex,Male,Female
+Adelaide,89666,91263
+Aston,75339,78821
+Ballarat,71979,76811
+Banks,75780,80031
+Barker,83654,81960
+Barton,85725,87130
+Bass,49895,52397
+Bean,66425,69315
+Bendigo,71085,74959
+Bennelong,82362,86578
+Berowra,71298,73836
+Blair,80339,82061
+Blaxland,89071,85557
+Bonner,72730,76899
+Boothby,79062,86353
+Bowman,71987,75024
+Braddon,50142,52775
+Bradfield,76947,83304
+Brand,81996,82031
+Brisbane,79820,79898
+Bruce,90542,87763
+Burt,84525,84254
+Calare,80636,80661
+Calwell,81220,81189
+Canberra,62680,64096
+Canning,72128,73890
+Capricornia,77711,74524
+Casey,73685,75596
+Chifley,84508,86737
+Chisholm,82386,87812
+Clark,49795,52738
+Cook,67496,71566
+Cooper,76440,81597
+Corangamite,65727,68840
+Corio,72039,76202
+Cowan,73347,74189
+Cowper,77043,82279
+Cunningham,76873,78513
+Curtin,69526,73566
+Dawson,78044,75794
+Deakin,74150,79283
+Dickson,74755,76666
+Dobell,74439,79635
+Dunkley,74073,77974
+Durack,98703,83063
+Eden-Monaro,73772,73763
+Fadden,79086,84131
+Fairfax,70955,76554
+Farrer,81183,82797
+Fenner,67363,69118
+Fisher,70615,75507
+Flinders,66242,70938
+Flynn,79916,75567
+Forde,81160,84382
+Forrest,72883,74887
+Fowler,80943,83294
+Franklin,48164,50858
+Fraser,84160,83749
+Fremantle,72860,75875
+Gellibrand,82058,83670
+Gilmore,74171,76264
+Gippsland,71484,73098
+Goldstein,70624,77001
+Gorton,83289,85016
+Grayndler,72830,76681
+Greenway,85420,84648
+Grey,85898,83145
+Griffith,73778,75934
+Groom,72145,76717
+Hasluck,72878,70745
+Herbert,79641,80367
+Higgins,75831,82474
+Hindmarsh,78373,82293
+Hinkler,69457,73669
+Holt,82692,83089
+Hotham,86750,88135
+Hughes,71073,73218
+Hume,74775,75866
+Hunter,77728,79066
+Indi,71012,73394
+Isaacs,73113,77002
+Jagajaga,70830,74506
+Kennedy,83728,80640
+Kingsford Smith,87225,89009
+Kingston,77771,80937
+Kooyong,73925,80955
+La Trobe,73269,75943
+Lalor,87666,87242
+Leichhardt,83087,84344
+Lilley,72989,77178
+Lindsay,82101,84427
+Lingiari,63231,57178
+Longman,79019,81580
+Lyne,71263,74214
+Lyons,50887,51288
+Macarthur,79775,82248
+Mackellar,72521,76092
+Macnamara,81609,85618
+Macquarie,69052,72390
+Makin,82605,84454
+Mallee,76374,77497
+Maranoa,75109,74156
+Maribyrnong,77276,80734
+Mayo,77859,81109
+McEwen,70090,72131
+McMahon,82228,83470
+McPherson,72750,78826
+Melbourne,91579,97382
+Menzies,72286,76517
+Migratory - Offshore - Shipping (ACT),0,0
+Migratory - Offshore - Shipping (NSW),174,240
+Migratory - Offshore - Shipping (NT),58,12
+Migratory - Offshore - Shipping (OT),9,0
+Migratory - Offshore - Shipping (Qld),69,83
+Migratory - Offshore - Shipping (SA),6,0
+Migratory - Offshore - Shipping (Tas.),52,19
+Migratory - Offshore - Shipping (Vic.),26,0
+Migratory - Offshore - Shipping (WA),405,27
+Mitchell,75102,78349
+Monash,68580,72197
+Moncrieff,81787,85331
+Moore,69541,70719
+Moreton,80264,81725
+New England,75389,78796
+Newcastle,75477,77472
+Nicholls,74892,75517
+No usual address (ACT),313,232
+No usual address (NSW),7353,4938
+No usual address (NT),1334,1155
+No usual address (OT),21,29
+No usual address (Qld),6939,5576
+No usual address (SA),1738,1127
+No usual address (Tas.),518,393
+No usual address (Vic.),4329,3241
+No usual address (WA),3535,2417
+North Sydney,77793,83724
+O'Connor,79765,76559
+Oxley,83335,83836
+Page,78412,80696
+Parkes,76382,77382
+Parramatta,94404,91921
+Paterson,76426,79208
+Pearce,89971,91796
+Perth,75453,75637
+Petrie,78560,84707
+Rankin,88622,90547
+Reid,89628,91717
+Richmond,73764,79147
+Riverina,77165,78628
+Robertson,69298,73802
+Ryan,74926,78508
+Scullin,78235,79672
+Shortland,70550,73933
+Solomon,55347,52907
+Spence,85384,87320
+Stirling,72602,75393
+Sturt,83934,90610
+Swan,82162,81047
+Sydney,103710,96475
+Tangney,66123,69916
+Wannon,75267,75821
+Warringah,71037,76296
+Watson,87612,87191
+Wentworth,69852,76095
+Werriwa,84313,86596
+Whitlam,73935,78347
+Wide Bay,70602,72088
+Wills,75823,79116
+Wright,77958,78483

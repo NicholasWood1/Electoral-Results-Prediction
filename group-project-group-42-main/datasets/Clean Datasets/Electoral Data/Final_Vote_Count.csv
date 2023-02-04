@@ -1,0 +1,303 @@
+,DivisionNm,CountNumber,BallotPosition,PartyAb,PartyNm,Elected,HistoricElected,PreferenceCount,PreferencePercent
+2,Adelaide,4,3,ALP,Australian Labor Party,Y,Y,62362.0,58.18
+4,Adelaide,4,5,LP,Liberal,N,N,44819.0,41.82
+6,Aston,3,1,LP,Liberal,Y,Y,60180.0,60.13
+8,Aston,3,3,ALP,Australian Labor Party,N,N,39910.0,39.87
+16,Ballarat,5,6,LP,Liberal,N,N,40068.0,39.02
+17,Ballarat,5,7,ALP,Australian Labor Party,Y,Y,62615.0,60.98
+18,Banks,4,1,LP,Liberal,Y,Y,51609.0,56.26
+20,Banks,4,3,ALP,Labor,N,N,40121.0,43.74
+26,Barker,5,3,LP,Liberal,Y,Y,72851.0,68.94
+30,Barker,5,7,ALP,Australian Labor Party,N,N,32815.0,31.06
+31,Barton,4,1,ALP,Labor,Y,Y,53418.0,59.41
+32,Barton,4,2,LP,Liberal,N,N,36489.0,40.59
+38,Bass,5,2,ALP,Australian Labor Party,N,Y,34085.0,49.59
+40,Bass,5,4,LP,Liberal,Y,N,34648.0,50.41
+49,Bean,6,6,LP,Liberal,N,N,39484.0,42.48
+50,Bean,6,7,ALP,Australian Labor Party,Y,N,53455.0,57.52
+54,Bendigo,5,3,ALP,Australian Labor Party,Y,Y,60016.0,59.04
+56,Bendigo,5,5,LP,Liberal,N,N,41645.0,40.96
+59,Bennelong,3,1,ALP,Labor,N,N,41496.0,43.09
+61,Bennelong,3,3,LP,Liberal,Y,Y,54809.0,56.91
+65,Berowra,7,2,LP,Liberal,Y,Y,61675.0,65.65
+71,Berowra,7,8,ALP,Labor,N,N,32272.0,34.35
+75,Blair,7,3,ALP,Australian Labor Party,Y,Y,49123.0,51.21
+77,Blair,7,5,LNP,Liberal National Party of Queensland,N,N,46802.0,48.79
+83,Blaxland,3,2,LP,Liberal,N,N,28509.0,35.28
+84,Blaxland,3,3,ALP,Labor,Y,Y,52299.0,64.72
+90,Bonner,4,4,LNP,Liberal National Party of Queensland,Y,Y,54072.0,57.41
+92,Bonner,4,6,ALP,Australian Labor Party,N,N,40115.0,42.59
+97,Boothby,6,5,LP,Liberal,Y,Y,56812.0,51.38
+98,Boothby,6,6,ALP,Australian Labor Party,N,N,53765.0,48.62
+102,Bowman,4,2,LNP,Liberal National Party of Queensland,Y,Y,59237.0,60.24
+106,Bowman,4,6,ALP,Australian Labor Party,N,N,39102.0,39.76
+110,Braddon,7,4,LP,Liberal,Y,N,37151.0,53.09
+114,Braddon,7,8,ALP,Australian Labor Party,N,Y,32822.0,46.91
+117,Bradfield,3,2,LP,Liberal,Y,Y,63997.0,66.56
+120,Bradfield,3,5,ALP,Labor,N,N,32146.0,33.44
+122,Brand,6,2,ALP,Australian Labor Party,Y,Y,50333.0,56.66
+123,Brand,6,3,LP,Liberal,N,N,38508.0,43.34
+130,Brisbane,5,2,LNP,Liberal National Party of Queensland,Y,Y,55995.0,54.92
+134,Brisbane,5,6,ALP,Australian Labor Party,N,N,45962.0,45.08
+138,Bruce,3,3,LP,Liberal,N,N,33351.0,35.85
+139,Bruce,3,4,ALP,Australian Labor Party,Y,Y,59689.0,64.15
+142,Burt,7,2,ALP,Australian Labor Party,Y,Y,48414.0,54.99
+146,Burt,7,6,LP,Liberal,N,N,39626.0,45.01
+152,Calare,5,3,ALP,Labor,N,N,38282.0,36.71
+154,Calare,5,5,NP,The Nationals,Y,Y,66006.0,63.29
+159,Calwell,6,3,ALP,Australian Labor Party,Y,Y,60164.0,68.8
+164,Calwell,6,8,LP,Liberal,N,N,27288.0,31.2
+166,Canberra,4,2,ALP,Australian Labor Party,Y,N,57961.0,67.08
+168,Canberra,4,4,LP,Liberal,N,N,28442.0,32.92
+176,Canning,6,6,LP,Liberal,Y,Y,55947.0,61.55
+177,Canning,6,7,ALP,Australian Labor Party,N,N,34945.0,38.45
+183,Capricornia,7,5,LNP,Liberal National Party of Queensland,Y,Y,55475.0,62.35
+184,Capricornia,7,6,ALP,Australian Labor Party,N,N,33492.0,37.65
+194,Casey,8,7,LP,Liberal,Y,Y,54551.0,54.64
+195,Casey,8,8,ALP,Australian Labor Party,N,N,45277.0,45.36
+202,Chifley,4,5,LP,Liberal,N,N,34245.0,37.63
+203,Chifley,4,6,ALP,Labor,Y,Y,56761.0,62.37
+207,Chisholm,7,4,LP,Liberal,Y,N,48005.0,50.57
+211,Chisholm,7,8,ALP,Australian Labor Party,N,N,46915.0,49.43
+213,Clark,3,1,IND,Independent,Y,Y,48653.0,72.12
+214,Clark,3,2,ALP,Australian Labor Party,N,N,18808.0,27.88
+218,Cook,5,1,LP,Liberal,Y,Y,64894.0,69.02
+220,Cook,5,3,ALP,Labor,N,N,29129.0,30.98
+229,Cooper,6,5,GVIC,The Greens (VIC),N,N,34464.0,35.35
+231,Cooper,6,7,ALP,Australian Labor Party,Y,Y,63017.0,64.65
+234,Corangamite,6,2,ALP,Australian Labor Party,Y,N,51895.0,51.07
+238,Corangamite,6,6,LP,Liberal,N,Y,49725.0,48.93
+241,Corio,2,1,ALP,Australian Labor Party,Y,Y,59572.0,60.32
+242,Corio,2,2,LP,Liberal,N,N,39180.0,39.68
+246,Cowan,5,2,ALP,Australian Labor Party,Y,Y,43135.0,50.83
+251,Cowan,5,7,LP,Liberal,N,N,41718.0,49.17
+253,Cowper,6,2,NP,The Nationals,Y,N,59932.0,56.79
+256,Cowper,6,5,IND,Independent,N,N,45596.0,43.21
+260,Cunningham,4,1,LP,Liberal,N,N,36841.0,36.59
+262,Cunningham,4,3,ALP,Labor,Y,Y,63836.0,63.41
+268,Curtin,6,3,LP,Liberal,Y,N,57296.0,64.33
+272,Curtin,6,7,ALP,Australian Labor Party,N,N,31766.0,35.67
+277,Dawson,7,4,LNP,Liberal National Party of Queensland,Y,Y,57405.0,64.61
+278,Dawson,7,5,ALP,Australian Labor Party,N,N,31446.0,35.39
+286,Deakin,6,4,LP,Liberal,Y,Y,53288.0,54.78
+289,Deakin,6,7,ALP,Australian Labor Party,N,N,43981.0,45.22
+292,Dickson,6,2,LNP,Liberal National Party of Queensland,Y,Y,52968.0,54.64
+293,Dickson,6,3,ALP,Australian Labor Party,N,N,43980.0,45.36
+301,Dobell,4,3,LP,Liberal,N,N,49209.0,48.5
+303,Dobell,4,5,ALP,Labor,Y,Y,52244.0,51.5
+308,Dunkley,6,4,ALP,Australian Labor Party,Y,N,51066.0,52.74
+310,Dunkley,6,6,LP,Liberal,N,Y,45762.0,47.26
+313,Durack,5,1,LP,Liberal,Y,Y,50332.0,64.76
+317,Durack,5,5,ALP,Australian Labor Party,N,N,27389.0,35.24
+320,Eden-Monaro,6,1,ALP,Labor,Y,Y,50472.0,50.85
+321,Eden-Monaro,6,2,LP,Liberal,N,N,48787.0,49.15
+329,Fadden,5,2,ALP,Australian Labor Party,N,N,34825.0,35.82
+333,Fadden,5,6,LNP,Liberal National Party of Queensland,Y,Y,62387.0,64.18
+338,Fairfax,7,4,LNP,Liberal National Party of Queensland,Y,Y,61944.0,63.44
+343,Fairfax,7,9,ALP,Australian Labor Party,N,N,35696.0,36.56
+344,Farrer,7,1,LP,Liberal,Y,Y,59260.0,60.94
+347,Farrer,7,4,IND,Independent,N,N,37989.0,39.06
+356,Fenner,3,4,ALP,Australian Labor Party,Y,Y,52462.0,60.56
+357,Fenner,3,5,LP,Liberal,N,N,34171.0,39.44
+359,Fisher,5,2,ALP,Australian Labor Party,N,N,36948.0,37.3
+362,Fisher,5,5,LNP,Liberal National Party of Queensland,Y,Y,62100.0,62.7
+367,Flinders,7,3,LP,Liberal,Y,Y,53943.0,55.64
+369,Flinders,7,5,ALP,Australian Labor Party,N,N,43009.0,44.36
+374,Flynn,6,1,ALP,Australian Labor Party,N,N,36985.0,41.34
+381,Flynn,6,8,LNP,Liberal National Party of Queensland,Y,Y,52472.0,58.66
+385,Forde,4,4,LNP,Liberal National Party of Queensland,Y,Y,53635.0,58.6
+386,Forde,4,5,ALP,Australian Labor Party,N,N,37899.0,41.4
+390,Forrest,6,3,LP,Liberal,Y,Y,58405.0,64.56
+394,Forrest,6,7,ALP,Australian Labor Party,N,N,32057.0,35.44
+397,Fowler,3,2,ALP,Labor,Y,Y,53540.0,63.99
+400,Fowler,3,5,LP,Liberal,N,N,30124.0,36.01
+402,Franklin,3,2,LP,Liberal,N,N,26555.0,37.79
+404,Franklin,3,4,ALP,Australian Labor Party,Y,Y,43706.0,62.21
+407,Fraser,4,2,LP,Liberal,N,N,33156.0,35.82
+408,Fraser,4,3,ALP,Australian Labor Party,Y,N,59403.0,64.18
+413,Fremantle,6,2,ALP,Australian Labor Party,Y,Y,51852.0,56.92
+417,Fremantle,6,6,LP,Liberal,N,N,39251.0,43.08
+420,Gellibrand,2,1,ALP,Australian Labor Party,Y,Y,63878.0,64.83
+422,Gellibrand,2,3,LP,Liberal,N,N,34653.0,35.17
+427,Gilmore,5,4,ALP,Labor,Y,N,56652.0,52.61
+430,Gilmore,5,7,LP,Liberal,N,N,51025.0,47.39
+434,Gippsland,5,4,ALP,Australian Labor Party,N,N,32222.0,33.33
+436,Gippsland,5,6,NP,The Nationals,Y,Y,64456.0,66.67
+440,Goldstein,4,3,ALP,Australian Labor Party,N,N,41928.0,42.21
+442,Goldstein,4,5,LP,Liberal,Y,Y,57408.0,57.79
+447,Gorton,3,4,ALP,Australian Labor Party,Y,Y,61861.0,65.36
+448,Gorton,3,5,LP,Liberal,N,N,32780.0,34.64
+452,Grayndler,4,4,GRN,The Greens,N,N,32285.0,33.7
+453,Grayndler,4,5,ALP,Labor,Y,Y,63529.0,66.3
+457,Greenway,4,3,LP,Liberal,N,N,45082.0,47.2
+458,Greenway,4,4,ALP,Labor,Y,Y,50425.0,52.8
+462,Grey,6,2,ALP,Australian Labor Party,N,N,37943.0,36.68
+466,Grey,6,6,LP,Liberal,Y,Y,65504.0,63.32
+469,Griffith,4,1,LNP,Liberal National Party of Queensland,N,N,46958.0,47.14
+470,Griffith,4,2,ALP,Australian Labor Party,Y,Y,52659.0,52.86
+478,Groom,4,4,LNP,Liberal National Party of Queensland,Y,Y,67274.0,70.48
+480,Groom,4,6,ALP,Australian Labor Party,N,N,28174.0,29.52
+483,Hasluck,6,3,LP,Liberal,Y,Y,46637.0,55.39
+484,Hasluck,6,4,ALP,Australian Labor Party,N,N,37563.0,44.61
+493,Herbert,6,5,LNP,Liberal National Party of Queensland,Y,N,53641.0,58.36
+496,Herbert,6,8,ALP,Australian Labor Party,N,Y,38276.0,41.64
+500,Higgins,4,4,LP,Liberal,Y,N,54139.0,53.88
+501,Higgins,4,5,ALP,Australian Labor Party,N,N,46339.0,46.12
+505,Hindmarsh,4,3,ALP,Australian Labor Party,Y,N,61606.0,56.54
+507,Hindmarsh,4,5,LP,Liberal,N,N,47349.0,43.46
+510,Hinkler,8,2,LNP,Liberal National Party of Queensland,Y,Y,59384.0,64.5
+517,Hinkler,8,9,ALP,Australian Labor Party,N,N,32683.0,35.5
+519,Holt,2,1,ALP,Australian Labor Party,Y,Y,55577.0,58.7
+522,Holt,2,4,LP,Liberal,N,N,39110.0,41.3
+524,Hotham,4,2,ALP,Australian Labor Party,Y,Y,53597.0,55.91
+525,Hotham,4,3,LP,Liberal,N,N,42271.0,44.09
+529,Hughes,5,1,LP,Liberal,Y,Y,57149.0,59.85
+533,Hughes,5,5,ALP,Labor,N,N,38342.0,40.15
+536,Hume,5,1,ALP,Labor,N,N,37915.0,37.01
+539,Hume,5,4,LP,Liberal,Y,Y,64527.0,62.99
+544,Hunter,6,2,NP,The Nationals,N,N,47976.0,47.02
+549,Hunter,6,7,ALP,Labor,Y,Y,54050.0,52.98
+553,Indi,5,3,IND,Independent,Y,N,51886.0,51.39
+554,Indi,5,4,LP,Liberal,N,N,49070.0,48.61
+559,Isaacs,4,2,LP,Liberal,N,N,42192.0,43.57
+562,Isaacs,4,5,ALP,Australian Labor Party,Y,Y,54645.0,56.43
+565,Jagajaga,3,2,ALP,Australian Labor Party,Y,N,55304.0,56.57
+567,Jagajaga,3,4,LP,Liberal,N,N,42463.0,43.43
+570,Kennedy,4,2,KAP,Katter's Australian Party (KAP),Y,Y,58231.0,63.33
+573,Kennedy,4,5,LNP,Liberal National Party of Queensland,N,N,33717.0,36.67
+577,Kingsford Smith,5,3,ALP,Labor,Y,Y,55501.0,58.81
+581,Kingsford Smith,5,7,LP,Liberal,N,N,38875.0,41.19
+582,Kingston,3,1,ALP,Australian Labor Party,Y,Y,65708.0,61.94
+583,Kingston,3,2,LP,Liberal,N,N,40373.0,38.06
+590,Kooyong,6,4,LP,Liberal,Y,Y,55159.0,55.7
+593,Kooyong,6,7,GVIC,The Greens (VIC),N,N,43870.0,44.3
+597,La Trobe,5,3,LP,Liberal,Y,Y,53776.0,54.49
+600,La Trobe,5,6,ALP,Australian Labor Party,N,N,44913.0,45.51
+603,Lalor,4,2,LP,Liberal,N,N,35137.0,37.59
+604,Lalor,4,3,ALP,Australian Labor Party,Y,Y,58341.0,62.41
+610,Leichhardt,6,3,ALP,Australian Labor Party,N,N,41147.0,45.83
+614,Leichhardt,6,7,LNP,Liberal National Party of Queensland,Y,Y,48638.0,54.17
+619,Lilley,5,4,LNP,Liberal National Party of Queensland,N,N,47688.0,49.36
+620,Lilley,5,5,ALP,Australian Labor Party,Y,N,48917.0,50.64
+624,Lindsay,7,2,ALP,Labor,N,N,43789.0,44.96
+625,Lindsay,7,3,LP,Liberal,Y,N,53614.0,55.04
+632,Lingiari,4,1,ALP,Australian Labor Party (Northern Territory) Branch,Y,Y,26863.0,55.46
+637,Lingiari,4,6,CLP,Country Liberals (NT),N,N,21571.0,44.54
+638,Longman,6,1,LNP,Liberal National Party of Queensland,Y,N,53037.0,53.28
+641,Longman,6,4,ALP,Australian Labor Party,N,Y,46512.0,46.72
+646,Lyne,7,1,ALP,Labor,N,N,35238.0,34.83
+647,Lyne,7,2,NP,The Nationals,Y,Y,65942.0,65.17
+656,Lyons,4,2,ALP,Australian Labor Party,Y,Y,39491.0,55.18
+659,Lyons,4,5,LP,Liberal,N,N,32073.0,44.82
+662,Macarthur,5,2,ALP,Labor,Y,Y,58110.0,58.4
+665,Macarthur,5,5,LP,Liberal,N,N,41394.0,41.6
+672,Mackellar,5,5,ALP,Labor,N,N,36138.0,36.78
+673,Mackellar,5,6,LP,Liberal,Y,Y,62124.0,63.22
+678,Macnamara,7,4,LP,Liberal,N,N,42479.0,43.75
+683,Macnamara,7,9,ALP,Australian Labor Party,Y,N,54613.0,56.25
+684,Macquarie,3,1,LP,Liberal,N,N,48290.0,49.81
+686,Macquarie,3,3,ALP,Labor,Y,Y,48661.0,50.19
+689,Makin,3,1,ALP,Australian Labor Party,Y,Y,63726.0,59.72
+690,Makin,3,2,LP,Liberal,N,N,42978.0,40.28
+698,Mallee,11,5,NP,The Nationals,Y,N,62143.0,66.23
+701,Mallee,11,8,ALP,Australian Labor Party,N,N,31684.0,33.77
+708,Maranoa,5,2,LNP,Liberal National Party of Queensland,Y,Y,67239.0,72.49
+712,Maranoa,5,6,ON,Pauline Hanson's One Nation,N,N,25521.0,27.51
+716,Maribyrnong,2,3,ALP,Australian Labor Party,Y,Y,61767.0,61.2
+717,Maribyrnong,2,4,LP,Liberal,N,N,39157.0,38.8
+718,Mayo,4,1,LP,Liberal,N,N,50552.0,44.86
+723,Mayo,4,6,XEN,Centre Alliance,Y,Y,62124.0,55.14
+726,McEwen,6,3,ALP,Australian Labor Party,Y,Y,52892.0,55.02
+727,McEwen,6,4,LP,Liberal,N,N,43236.0,44.98
+735,McMahon,4,4,ALP,Labor,Y,Y,48364.0,56.64
+737,McMahon,4,6,LP,Liberal,N,N,37029.0,43.36
+738,McPherson,7,1,ALP,Australian Labor Party,N,N,34976.0,37.8
+742,McPherson,7,5,LNP,Liberal National Party of Queensland,Y,Y,57545.0,62.2
+748,Melbourne,5,2,GVIC,The Greens (VIC),Y,Y,66852.0,71.83
+751,Melbourne,5,5,LP,Liberal,N,N,26212.0,28.17
+755,Menzies,4,2,LP,Liberal,Y,Y,56568.0,57.53
+756,Menzies,4,3,ALP,Australian Labor Party,N,N,41758.0,42.47
+760,Mitchell,3,1,ALP,Labor,N,N,30938.0,31.37
+761,Mitchell,3,2,LP,Liberal,Y,Y,67698.0,68.63
+768,Monash,5,4,ALP,Australian Labor Party,N,N,42850.0,42.64
+770,Monash,5,6,LP,Liberal,Y,Y,57631.0,57.36
+773,Moncrieff,6,2,LNP,Liberal National Party of Queensland,Y,N,60079.0,65.36
+778,Moncrieff,6,7,ALP,Australian Labor Party,N,N,31840.0,34.64
+781,Moore,6,2,LP,Liberal,Y,Y,54735.0,61.65
+785,Moore,6,6,ALP,Australian Labor Party,N,N,34044.0,38.35
+789,Moreton,4,2,ALP,Australian Labor Party,Y,Y,47045.0,51.9
+792,Moreton,4,5,LNP,Liberal National Party of Queensland,N,N,43597.0,48.1
+797,New England,6,4,NP,The Nationals,Y,Y,62637.0,64.36
+799,New England,6,6,IND,Independent,N,N,34683.0,35.64
+802,Newcastle,5,1,ALP,Labor,Y,Y,65784.0,63.83
+808,Newcastle,5,7,LP,Liberal,N,N,37283.0,36.17
+809,Nicholls,6,1,NP,The Nationals,Y,Y,66732.0,70.03
+813,Nicholls,6,5,ALP,Australian Labor Party,N,N,28560.0,29.97
+818,North Sydney,5,2,ALP,Labor,N,N,39438.0,40.73
+823,North Sydney,5,7,LP,Liberal,Y,Y,57398.0,59.27
+826,O'Connor,7,3,ALP,Australian Labor Party,N,N,30536.0,35.52
+828,O'Connor,7,5,LP,Liberal,Y,Y,55421.0,64.48
+833,Oxley,5,1,LNP,Liberal National Party of Queensland,N,N,39473.0,43.61
+835,Oxley,5,3,ALP,Australian Labor Party,Y,Y,51050.0,56.39
+845,Page,5,6,NP,The Nationals,Y,Y,64295.0,59.45
+846,Page,5,7,ALP,Labor,N,N,43856.0,40.55
+848,Parkes,4,2,NP,The Nationals,Y,Y,62859.0,66.91
+850,Parkes,4,4,ALP,Labor,N,N,31093.0,33.09
+853,Parramatta,4,1,LP,Liberal,N,N,39368.0,46.5
+854,Parramatta,4,2,ALP,Labor,Y,Y,45302.0,53.5
+859,Paterson,4,1,LP,Liberal,N,N,48471.0,44.96
+861,Paterson,4,3,ALP,Labor,Y,Y,59348.0,55.04
+866,Pearce,8,2,ALP,Australian Labor Party,N,N,42445.0,42.48
+867,Pearce,8,3,LP,Liberal,Y,Y,57478.0,57.52
+876,Perth,6,2,ALP,Australian Labor Party,Y,Y,48176.0,54.93
+877,Perth,6,3,LP,Liberal,N,N,39530.0,45.07
+884,Petrie,4,2,LNP,Liberal National Party of Queensland,Y,Y,59331.0,58.4
+886,Petrie,4,4,ALP,Australian Labor Party,N,N,42266.0,41.6
+889,Rankin,6,1,ALP,Australian Labor Party,Y,Y,47893.0,56.44
+895,Rankin,6,7,LNP,Liberal National Party of Queensland,N,N,36971.0,43.56
+899,Reid,4,3,ALP,Labor,N,N,43884.0,46.82
+900,Reid,4,4,LP,Liberal,Y,N,49844.0,53.18
+906,Richmond,6,4,ALP,Labor,Y,Y,54251.0,54.08
+909,Richmond,6,7,NP,The Nationals,N,N,46069.0,45.92
+911,Riverina,2,1,NP,The Nationals,Y,Y,70136.0,69.48
+913,Riverina,2,3,ALP,Labor,N,N,30805.0,30.52
+919,Robertson,6,5,LP,Liberal,Y,Y,52100.0,54.24
+922,Robertson,6,8,ALP,Labor,N,N,43961.0,45.76
+923,Ryan,5,1,ALP,Australian Labor Party,N,N,42403.0,43.97
+927,Ryan,5,5,LNP,Liberal National Party of Queensland,Y,N,54023.0,56.03
+930,Scullin,4,1,ALP,Australian Labor Party,Y,Y,65787.0,71.66
+934,Scullin,4,5,LP,Liberal,N,N,26022.0,28.34
+938,Shortland,5,3,ALP,Labor,Y,Y,54437.0,54.45
+942,Shortland,5,7,LP,Liberal,N,N,45543.0,45.55
+943,Solomon,4,1,ALP,Australian Labor Party (Northern Territory) Branch,Y,Y,29240.0,53.08
+945,Solomon,4,3,CLP,Country Liberals (NT),N,N,25844.0,46.92
+949,Spence,4,1,ALP,Australian Labor Party,Y,Y,65174.0,64.13
+950,Spence,4,2,LP,Liberal,N,N,36455.0,35.87
+958,Stirling,5,4,LP,Liberal,Y,N,48289.0,55.65
+961,Stirling,5,7,ALP,Australian Labor Party,N,N,38490.0,44.35
+963,Sturt,6,2,LP,Liberal,Y,N,62404.0,56.87
+964,Sturt,6,3,ALP,Australian Labor Party,N,N,47328.0,43.13
+970,Swan,8,1,LP,Liberal,Y,Y,44333.0,52.69
+979,Swan,8,10,ALP,Australian Labor Party,N,N,39804.0,47.31
+980,Sydney,4,1,LP,Liberal,N,N,29705.0,31.33
+982,Sydney,4,3,ALP,Labor,Y,Y,65110.0,68.67
+986,Tangney,7,1,ALP,Australian Labor Party,N,N,32144.0,38.53
+992,Tangney,7,7,LP,Liberal,Y,Y,51275.0,61.47
+997,Wannon,3,3,ALP,Australian Labor Party,N,N,41156.0,39.62
+999,Wannon,3,5,LP,Liberal,Y,Y,62733.0,60.38
+1005,Warringah,8,6,LP,Liberal,N,Y,39395.0,42.76
+1007,Warringah,8,8,IND,Independent,Y,N,52728.0,57.24
+1014,Watson,4,5,ALP,Labor,Y,Y,53518.0,63.52
+1015,Watson,4,6,LP,Liberal,N,N,30732.0,36.48
+1020,Wentworth,5,5,LP,Liberal,Y,N,46050.0,51.31
+1022,Wentworth,5,7,IND,Independent,N,Y,43704.0,48.69
+1024,Werriwa,4,2,LP,Liberal,N,N,41959.0,44.53
+1028,Werriwa,4,6,ALP,Labor,Y,Y,52270.0,55.47
+1031,Whitlam,4,3,NP,The Nationals,N,N,40130.0,39.09
+1032,Whitlam,4,4,ALP,Labor,Y,Y,62541.0,60.91
+1036,Wide Bay,5,2,ALP,Australian Labor Party,N,N,34593.0,36.85
+1038,Wide Bay,5,4,LNP,Liberal National Party of Queensland,Y,Y,59279.0,63.15
+1045,Wills,4,4,GVIC,The Greens (VIC),N,N,40192.0,41.83
+1047,Wills,4,6,ALP,Australian Labor Party,Y,Y,55898.0,58.17
+1051,Wright,6,4,ALP,Australian Labor Party,N,N,34322.0,35.42
+1055,Wright,6,8,LNP,Liberal National Party of Queensland,Y,Y,62571.0,64.58
